@@ -3,7 +3,7 @@
 import spacy
 from spacy import displacy
 from pathlib import Path
-nlp = spacy.load("en_core_web_md")
+nlp = spacy.load("en")
 
 doc = nlp("I'm a butterfly.")
 svg = displacy.render(doc, style="dep", jupyter=False)
