@@ -7,5 +7,5 @@ doc = nlp("lemme that")
 print([w.text for w in doc])
 
 special_case = [{ORTH: "lem"}, {"ORTH": "me"}]
-nlp.tokenizer.add_special)case("lemme", special_case)
+nlp.tokenizer.add_special.case("lemme", special_case)
 print([w.text for w in nlp("lemme that")])
