@@ -3,4 +3,4 @@
 import spacy
 nlp = spacy.load("en")
 doc = nlp("It's been a crazy week!!!")
-print([token.text for token.doc])
+print([token.text for token in doc])
