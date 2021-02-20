@@ -5,5 +5,5 @@ nlp = spacy.load("en")
 
 doc = nlp("My friend will fly to New York fast and she is staying there for 3 days.")
 for token in doc:
-    print(token.text, otken.pos_, token.tag), spacy.explain(token.pos_), spacy.explain(token.tag_))
+    print(token.text, token.pos_, token.tag, spacy.explain(token.pos_), spacy.explain(token.tag_))
 
