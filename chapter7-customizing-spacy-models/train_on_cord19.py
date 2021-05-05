@@ -1,6 +1,6 @@
 import json
 
-with open("c.json") as f:
+with open("data/corona.json") as f:
     data = json.loads(f.read())
 
 
