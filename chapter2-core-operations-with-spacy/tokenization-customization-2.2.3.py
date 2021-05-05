@@ -2,7 +2,7 @@
 
 import spacy
 from spacy.symbols import ORTH
-nlp = spacy.load("en")
+nlp = spacy.load("en_core_web_md")
 doc = nlp("lemme that")
 print([w.text for w in doc])
 
