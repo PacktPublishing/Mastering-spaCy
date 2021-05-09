@@ -1,0 +1,2466 @@
+I am feeling hungry so I would like to find a place to eat.
+Do you have a specific which you want the eating place to be located at?
+I would like for it to be in San Jose.
+Is there a specific cuisine type you enjoy, such as Mexican, Italian or something else?
+I usually like eating the American type of food.
+I see that at 71 Saint Peter there is a good restaurant which is in San Jose.
+Can you give me the address of this restaurant.
+If you want to go to this restaurant you can find it at 71 North San Pedro Street.
+Can you give me the phone number that I can contact them with?
+If you want to phone them you can at 408-971-8523.
+Is there some other restaurant which you can suggest?
+How would you like Bazille restaurant which is situated in San Jose.
+Do you have another restaurant matching my needs? For example a restaurant which is economical and is located in Palo Alto.
+I see that 7 restaurants suit to what you requested. Bird Dog seems as a good restaurant and is located in Palo Alto.
+Alright, that seems good. I would like to make a booking at this restaurant.
+For which time do you want the booking to be?
+I will be eating there at 11:30 am so make it for then.
+Can you please confirm that you want to book a table for 2 at 11:30 am at the Bird Dog restaurant in Palo Alto for today.
+That suits me well. Can you tell me if they feature live music?
+Your booking has been made without errors, but unfortunately they do not have live music.
+Will I be able to find liquor there? Can you give me the address of their location?
+The restaurant is located at 420 Ramona Street. Unfortunately they do not serve alcohol at the restaurant.
+I appreciate it very much. That would be all.
+Have a good time!
+Hi i need a help, i am very hungry, I am looking for a restaurant
+Sure, I will help you, What type of food are you looking for? Which city should i search in?
+Some Punjabi kind of foods in milpitas
+I found a good restaurant in Milpitas, The restaurant name is Anjappar Chettinad Restaurant
+Ok, What is the address? How pricey are they?
+Price range is moderate, The address is Milpitas Square
+Ok, Find me another restaurant?
+I found another restaurant for you, Aria Dining & Banquets Fine Indian Cuisine Restaurant at Milpitas
+No, suggest me another Restaurant, Some Take-out type of food will be perfect
+I found 2 Restaurants, Olive garden Italian Restaurant at Milpitas
+Yes, it seems good for me
+shall i reserve a table here for you?
+Yes, I want it on the 11th
+please tell me what time is the reservation for?
+at afternoon 1:30
+Please confirm the following details: Booking a table at Olive Garden Italian Restaurant at Milpitas on March 11th reservation time is 1:30 pm, The reservation is for 2 people
+No, time change to twelve in the afternoon for one people
+Please confirm the following details: the reservation time is 12 pm, The reservation is for 1 people
+Yes
+Congrats, your reservation is confirmed
+What is the Restaurant address, Do they have live music, I love it
+Sorry, They don't have live music, The restaurant address is 1350 Great Mall Drive
+Thank you very much for your help
+Shall i help you with anything else?
+No, Thanks
+You are welcome, have a great day
+Help me find a good restaurant.
+In which city are you looking for the restaurant and do you have any preferred cuisine?
+Find me Ethiopian cuisine in Berkeley.
+Of the 4 Ethiopian restaurants in Berkeley, Addis Restaurant is a good one.
+Do they have live music?
+I'm sorry. They do not have live music.
+That's okay. I'd like to reserve a table for the 4th.
+At what time will you be arriving at the restaurant?
+Reserve the table for the 2nd of this month at 17:15.
+Please confirm that you want to reserve a table for 2 at the Addis Restaurant in Berkeley for tomorrow at 5:15 pm.
+That's right. Do they serve alcohol? And how expensive is the place?
+Sorry the reservation was not successful. Is there anything else I can assist you with?
+Can you check if a table is available at 17:30?
+Okay.Please confirm that you want to reserve a table for 2 at the Addis Restaurant in Berkeley for tomorrow at 5:30 pm.
+That's correct.
+Your table has been reserved.
+Thank you. That's all I need for now.
+Have a great day!
+I'm looking for a place to eat.
+Which city should I search in? What kind of food are you looking for?
+Some Freshwater fish kind of food in Palo Alto would be perfect.
+I found 4 restaurants. Odori Japanese Cuisine is a nice restaurant in Palo Alto.
+Could you suggest any other restaurant?
+P.f. Chang's is another nice restaurant in Palo Alto.
+Yes, that works for me.
+Would you like to reserve a table here?
+Yes, I want to make a reservation for one. Make it at half past 6 in the evening.
+Please confirm: Booking a table for 1 at P.f. Chang's at 6:30 pm today in Palo Alto.
+Yes, that works for me. How pricey are they? What is their contact number?
+Your reservation is successful. Their price range is moderate and their phone number is 650-330-1782.
+Thank you very much.
+Can I help you with anything else?
+No, thank you very much.
+Have a good day.
+I'd like to find a place to eat.
+Where should I look? What kind of food are you in the mood for? You can say things like Mexican, Italian or any other kind of food.
+Lobster sounds great. Please search in San Mateo.
+I have found 9 restaurants. Andes Cafe San Mateo is a great restaurant in San Mateo.
+What's their phone number?
+Their number is 650-581-1305.
+Any other suggestions?
+Fuji Sukiyaki is another great choice in San Mateo.
+Do they have live music?
+They do not.
+Any other suggestions?
+Golden Wok would be a great choice in San Mateo.
+That would work great. I would like to make a reservation there at evening 5:30 on March 14th.
+Please confirm the following: You want to eat at Golden Wok in San Mateo on March 14th starting at 5:30 pm. The reservation would be for 2 people.
+Yes, that would be great. Do they serve liquor or have live music?
+Your reservation was successful. They do not play live music or serve alcohol.
+Thanks so much!
+Is there anything else today?
+Nope, that'll be all. Thanks!
+Have a great day!
+I'm looking for a Filipino place to eat.
+Which City are you looking at?
+I want to eat in San Bruno
+I have 3 restaurants, Cabalen is a nice one in San Bruno.
+Any other suggestions?
+What about Isla Restaurant in San Bruno?
+How cheap is it and how much does it cost?
+It is moderate pricing and they are at 448 San Mateo Avenue
+Please can you make the reservation
+What time for?
+On the 12th at six pm
+Please confirm: Booking a table for 2 at Isla Restaurant in San Bruno. It is on March 12th at 6 pm.
+That's good. Do they serve liquor and what is there number?
+Reservation made.The number is 650-588-6078 and they do serve alcohol.
+Thanks a lot
+Have a great day.
+Can you help find a place to eat?
+What kind of food like Indian or Chinese?
+I would like Freshwater fish.
+Do you have a city?
+The city is San Jose.
+I have one in San Jose called Ariake.
+Yes that is fine.
+Would you like a reservation?
+Yes make it for March 10th.
+What time would you like?
+Reserve for six in the evening.
+Please confirm Ariake in San Jose for 6 pm on March 10th for 2.
+Yes what is the address and do they have live music?
+The address is 1008 Blossom Hill Road and they do not have live music but your reservation is confirmed.
+Thank you for all.
+Is there anything else I can do?
+No, that is all.
+Thanks and have a good day.
+My friend and I are looking for a place to eat.
+Please tell me what type of food you are looking for just say Mexican, Chinese or anything else. Also what city would you like me to search int.
+My family and I are in San Jose and the perfect place would have pizza and pasta. We don't have a price preference.
+San Jose has a restaurant called Al Castello Ristorante that is nice.
+Is there any other restaurant that you can suggest?
+There is also a nice restaurant called Angelo's Italian Restaurant in San Jose.
+Can I please have the address and contact number?
+408-227-5502 is their phone and it is located at 436 Blossom Hill Road.
+Is there any other restaurant that you can suggest?
+There is another nice restaurant called Antonella's Ristorante in San Jose.
+That restaurant will work can you please make a reservation for 12:30.
+I will be booking a table at Antonella's Ristorante in San Jose. The reservation will be set at 12:30 pm for today. And it is for 2 people is this correct.
+Yes, thank you that is correct.
+I have successful made your reservation.
+Thank you so much for setting that up.
+Is there anything else that I can help you with.
+That is all thank you so much.
+Have a good day thank you.
+Can you find me something economical to eat in Pleasanton.
+Are you looking for Italian, Indian or something else?
+I would like some Italian food.
+Found 5 restaurants for you out of which De La Torre's Trattoria seems a great from Pleasanton.
+Can you provide the address and do they have live music?
+No, they do not have live music and its address is 6025 West Las Positas Boulevard.
+Any other recommendation?
+Forno Vecchio also seems nice and its located n Pleasanton as well.
+Can you provide more options?
+Another good restaurant in Pleasanton in Gay 90's Pizza Co.
+That sounds like a good choice for me.
+Is there anything else?
+Yes, make a reservation at the restaurant.
+What time do you want me to make the reservation?
+I'll reach there at 1:30 pm.
+Please confirm that you want to make a reservation at Gay 90's Pizza Co. which is located in Pleasanton for 2 people. The reservation is for today at 1:30 pm.
+No, change the time to 7 pm and for one person only.
+Alright, please confirm that the reservation is at 7 pm for 1 person.
+No, change it on next friday.
+Sure. Please confirm that the date is now next Friday and for 1 person.
+Yes. Sounds good.
+Your reservation is booked.
+What is the address of the restaurant and do the have live music?
+The address is 288 Main Street and No, they don't have live music either.
+Alright, Thank you.
+Have a great day.
+I am looking to eat somewhere
+What city would you like to go? Do you want American or Italian?
+I want some breakfast in Fairfield
+I recommend Mimi's cafe in fairfield
+Do they have live music with liquor
+They do not have live music but they do have alcohol
+ok that works
+Do you want me to reserve a table for you
+Yes, please make reservation for one people this evening 4:45
+Please confirm your booking at mimi's cafe in Fairfield for 1 people today at 4:45 pm
+thats correct. What is their phone number what how expensive are they
+Sorry, they are fully booked. Shall i try to make reservation for 1 people today at 5 pm? The price range is Moderate at mimi's cafe and their phone number is 707-421-0835
+yes thats fine
+your seat is booked
+thanks
+anything else i can help you with?
+no thats it
+have a nice day
+I'm starving! Can you help me find a restaurant that serves Breakfast in Fairfield?
+There is 1 restaurant that meets your needs. Mimi's Cafe in Fairfield serves breakfast.
+Is there a band playing there?
+No, unfortunately, they don't offer live music.
+That's okay. It will work anyway.
+Do you wish to make a reservation?
+Yes, I'll need to make a reservation for a table for 2.
+What time will you be visiting?
+Please make it for half past 5 in the evening.
+You'd like a table for 2 today at Mimi's Cafe in Fairfield at 5:30 pm. Is this correct?
+I'm sorry, I need to change that. I'd like it on the 9th and it will be for 3 people.
+Let's review those changes. You'd like the reservation on March 9th for 3. Have I got it right?
+I'm sorry. I need to make it on Monday next week at half past 12 in the afternoon.
+You'd like your reservation for 3 next Monday at 12:30 pm. Is that correct?
+Yes, I'm sorry for the confusion. Can you tell me their phone number please?
+The phone number is 707-421-0835. Your reservation is confirmed.
+Great! Thank you so much for your help.
+You're welcome. Have a nice day!
+Can you help me find a place to eat at?
+Which city are you looking in?
+Cupertino, please.
+What kind of food would you like? American, Indian, or something else?
+Malaysian sounds good right now.
+I've found 2 Malaysian restaurants in Cupertino. Merlion Restaurant & Bar is one.
+What's the other one?
+Rasa Sayang is also is Cupertino.
+Does the restaurant have live music?
+No, they do now.
+Sounds fine to me. Can you help me make a reservation?
+At what time?
+A quarter past 5 in the evening, please.
+So you'd like a reservation for 2 at 5:15 pm today, at Rasa Sayang in Cupertino?
+No, I'd like it on March 13th.
+So you'd like a reservation at 5:15 pm on March 13th?
+No, I'd like it at half past 12 in the afternoon.
+So you'd like a reservation at 12:30 pm on March 13th?
+Yes, sounds good.
+Your reservation is confirmed.
+Does the restaurant serve alcohol?
+No, the restaurant does not serve alcohol.
+Thank you, that's all I need.
+Have a nice day.
+Hello, could you help me search for a place to dine in?
+Sure thing, which area are you interested in and what is your preferred cuisine, such as Italian and Indian?
+I would prefer a restaurant which serves up Cambodian food in SF.
+I have managed to find a nice restaurant called Anh Hong which is located in San Francisco.
+Are there any alternative restaurants?
+Yes there is, Aux Delices is also a nice restaurant located in San Francisco.
+Sure, that sounds great!
+Would you like me to make a reservation?
+Yes, please do so.
+What time would you like dine in at the restaurant?
+I would prefer to dine in at 19:15.
+Please confirm your reservation for 2 people at Aux Delices in San Francisco at 7:15 pm today.
+Sorry, could you change the booking to 18:30 for 3 people?
+Sure, please confirm your reservation at 6:30 pm for 3 people.
+That's fine for me. May I know where they are located at?
+They are located at 2327 Polk Street. Unfortunately, I was unable to make the reservation for you. Would you prefer a reservation at Aux Delices today for 3 people at 7 pm instead?
+No, thank you anyway.
+No problem, have a great day ahead!
+I have a plan to eat out side for which I need some best places, can you search one for me?
+Do you have any interested type of food to eat and in which city?
+Asian kind of food will be good for me and please search it in Fremont City.
+Found 3 results, Asian pearl Seafood Restaurant is the best one in Fremont city, hope you like it.
+Yes, I like the same.
+Shall I make a reservation at this restaurant?
+Yes, make it at half past 1 in the afternoon that will be the perfect time to eat.
+Please confirm to book a table for 2 persons in Asian Pearl Seafood REstaurant in Fremont at 1:30 pm on today.
+change it to March 10th.
+Please confirm to book for 2 persons on March 10th.
+Yes, confirmed. continue with reservation.
+Your booking was confirmed.
+Thanks for your help.
+Any other help you need?
+No, thanks. that's all.
+Have a great day.
+I want to find a restaurant in Albany.
+What type of restaurant would you like
+Barbecue is the best.
+I have 2 options. Cafe Eugene in Albany is a good choice.
+What is the other option?
+Juanita & Maude in Albany is great.
+Yes that sounds good.
+Would you like a table?
+Yes please reserve me a table for the 13th of March.
+What time would you like?
+5 o\"clock in the evening please.
+Making a dinner reservation for 2 people at Juanita & Maude on March 13th at 5 pm in Albany. Is that Correct?
+Yes is great.
+Your reservation is successful.
+Thanks for your help.
+Is there anything else?
+No that will be all.
+Have a great day.
+Can you pull up a list of places to eat?
+Sure, what city should I search? And what kind of food would you like?
+Search San Francisco for Asian Fusion food
+Sure, I found 8 Immortals Restaurant in San Francisco
+Is there live music?
+Unfortunately no.
+Do they serve alcohol? And what's their phone number?
+No alcohol. The phone number is 415-731-5515
+Okay great. Please make a reservation for a party of six.
+Sure, what time?
+half past 5 in the evening please.
+Okay, got it. I will book a table at 8 Immortals Restaurant in San Francisco for 5:30 pm today, for 6 people.
+That's correct. What's the address?
+Apologies, I was unable to make this reservation. Can i help with with anything else?
+I want a reservation at this restaurant. Can you make it for twelve pm? For four people.
+Certainly, please confirm: Reservation at 8 Immortals Restaurant in San Francisco is for 12 pm today for 4 people.
+Yes, thank you. How's the pricing? Low priced?
+Great, reservation complete. The prices are inexpensive.
+Thank you, that is all.
+Have a great day
+I'm looking for a good place to get something to eat, can you help?
+Sure. What kind of food do you want? You can ask for Mexican, American, Sushi, or anything else. And also, what city should I search in?
+Oh, I'm in Oakland. Please find an American restaurant.
+I'd recommend Chop Bar in Oakland.
+Are their prices extravagant? How can I contact them.
+No, their prices are moderate. Their phone number is 510-834-2467.
+Okay, that sounds good. Can you reserve a table for me?
+What time would you like it?
+Please reserve it for six pm.
+Sure, please confirm that you'd like to book a table for 2 at Chop Bar in Oakland from 6 pm today.
+Yes that's perfect. What's their address? Do they have a live band?
+Your table is booked. You can find them at 247 4th Street. Unfortunately they don't do live music.
+Okay thanks. That'll be all.
+Okay, have a good night.
+I'm looking for somewhere to eat.
+Where should I search?
+In Oakland.
+What type of cuisine? For example, Chinese, American, or something else?
+I want pizza and pasta.
+I found 8 places. A16 is a nice restaurant in Oakland.
+Do they have liquor?
+Yes, they do.
+Okay, that works for me.
+Would you like to reserve a table there?
+Yes, for two people please.
+What time?
+I want it at half past 5 in the evening.
+Just to confirm, you want a table today at A16 in Oakland for 2 people at 5:30 pm?
+Yes.
+It was successful.
+Thanks.
+Can I help you with anything else?
+No, that's okay.
+Have a good day.
+I'm looking for a restaurant.
+In what city are you located and what type of food.
+Asian Fusion in Concord.
+Ozora Sushi is a restaurant in Concord.
+Yes, that is good.
+Would you like to reserve a table?
+Yes, any date works.
+What time would you like?
+5 o\"clock in the evening.
+Ozora Sushi in Concord today for 2 people at 5 pm.
+Yes, that is good.
+Your reservation has been made.
+What is the address and is there music?
+It's at 785 Oak Grove Road and no music.
+Thank you for your assistance.
+Can I help with anything else?
+No, that is all thank you.
+Have a good day.
+Are there any Mexican places in Rohnert Park?
+Chili's Grill & Bar is in Rohnert Park.
+Is it an inexpensive restaurant?
+It is a moderate priced place.
+What's their phone number?
+It is 707-585-9069.
+Are there any other restaurants? Something like Ramen would be good. I want something that is not very costly.
+1 restaurant named Kyoto fits that description. It's in Rohnert Park as well.
+That would be great!
+Is there anything else I can do?
+Make a reservation this morning 11:15 for three people.
+Just to confirm: I am booking a table for 3 today at 11:15 am at the Rohnert Park location of Kyoto.
+That's correct. What's their address?
+Your reservation has been made. They are located at 5 Padre Parkway.
+Is their music live?
+No.
+Okay. That was all I needed.
+Have a great day.
+I'm getting pretty hungry and need to find a place to eat.
+What are your preference for a dining location?
+I would like something that I can pick-up in San Fran at any price range.
+There is a restaurant called Golden Gate Indian Cuisine & Pizza that is located in San Francisco.
+Do they have music or entertainment? Can I have their phone number?
+Sorry, they do not have live music. Their phone number is 415-564-5514.
+I am on a budget so I would like something that is inexpensive but serves alcohol. Can you suggest another restaurant with these qualities?
+I was able to locate 1 other nice restaurant called Hunan Empire Restaurant located in San Francisco.
+Yes, that sounds like what I'm looking for.
+Would you like for me to reserve a table here for you?
+Yes, can you make the reservation for two people?
+Sure, what time would you like me to set the reservation for?
+Please make the reservation for the 13th of this month at afternoon 12.
+Great, I have a dining reservation for 2 people, located at the Hunan Empire Restaurant in San Francisco, on March 13th at 12 pm. Does that sound correct?
+Yes that sounds great. What is the address of the restaurant?
+I've successfully made your reservation. The address for the restaurant is 2001 Union Street.
+Thank you for all your help.
+Is there anything else I can do for you?
+No, that was all I needed but thank you.
+Have a wonderful day.
+Can you help me find a restaurant?
+Yes, which city shall I search?
+I prefer Redwood City.
+Do you have a preference regarding the type of food?
+I would like Spanish food, economical pricing preferred.
+Redwood City has 1 Spanish restaurant, Estampas Peruanas Restaurant.
+That sounds good.
+Shall i reserve a table?
+Yes please make a reservation for four.
+What time would suit you best?
+Early evening 5:45 pm.
+Please confirm: You would like to book a table, today at 5:45 pm, for 4 at Estampas Peruanas restaurant in redwood City?
+Yes that is correct. Do you have their phone number?
+Reservation has been placed successfully. Their contact number is 650-368-9340.
+Thank you. That is all for now.
+Have a lovely day.
+I am looking for a place to eat. Can you find restaurants specializing in Singaporean cuisine near me?
+Okay, where would you like to eat?
+I am looking for restaurants located in Millbrae.
+I found 1 result, Ipoh Garden Malaysian Cuisine located in Millbrae.
+Great, thanks. What is their phone number? Do they serve alcohol?
+No, alcohol is not served. Here's their phone number: 650-487-8737
+Okay, sounds good.
+Do you want to make a reservation?
+Sure, that would be great.
+Okay. What time should I make your reservation?
+Eleven in the morning, please.
+Okay. I have an 11 AM reservation for 2 people today, at Ipoh Garden Malaysian Cuisine in Millbrae. Is that correct?
+Yes- that's perfect.
+Okay! Your reservation is confirmed.
+Wonderful. Thanks for your help.
+My pleasure. Have a great day.
+Can you help me find an afforadable place to eat?
+What city do you want me to look in?
+Please look for a place in Calistoga.
+Is there any particular type of food you want, like Chinese, Mexican, or anything else?
+I'm in the mood for Cambodian food.
+There's a nice place called Calistoga Thai Kitchen in Calistoga.
+Do you have any other suggestions? Actually, I think I'd prefer Barbecue.
+I've found 1 restaurant that could work. It's Lovina in Calistoga.
+Yeah, that does work for me.
+Do you want me to reserve you a table?
+Yeah, please make me a reservation.
+What time would you like it to be?
+It should be half past 12 in the afternoon. Oh, and make it for two.
+Okay, so it's a reservation at Lovina in Calistoga at 12:30 pm today for 2 people?
+Wait no, it's just 1 person.
+Okay, so it's 1 person at 12:30 pm?
+Yeah, also do they have live music and liquor there?
+There is no live music or liquor, sorry. But I've made the reservation for you.
+Okay, thanks. I don't need any more help.
+Then you have a good day, take care.
+I will be going to eat with a friend what expensive restaurants do you recommend?
+What type of cuisine do you want? Mexican, Chinese or which one?
+I want something with Fish but make it an average priced restaurant.
+In what city do you want to look for?
+I want to eat in Burlingame.
+There are 2 possible restaurants. One of them is Grand Harbor located in Burlingame.
+That sounds great. Please make a reservation.
+At what time do you want to go?
+At quarter to 1 in the afternoon.
+Please confirm: Booking a table for 2 people at 12:45 pm for today at the Grand Harbor in Burlingame.
+Yes, that is correct. Do you have the phone number?
+The restaurant has been booked. Their phone number is 650-347-9988.
+Thanks a lot, that would be all.
+Have a great day.
+I am tired of eating my cooking. I want to eat out tonight.
+What type of cuisine would you like?
+I am in the mood for Izakaya cuisine.
+Which city would you like me to look in?
+I want something in Rohnert Park
+There is a lovely restaurant in Rohnert Park called Hana
+That does not seems close by. Where is it located?
+It is located on 101 Golf Course Drive.
+Is there anything else? I want to go somewhere close to Pleasant Hill.
+There are 2 options available in Pleasant Hill. I would like to recommend Matsu Sushi Japanese Restaurant.
+Where is it located?
+It is located on 1914 contra costa boulevard
+It is closer and would work out perfectly for me.
+Should I go ahead and reserve a table?
+Yes, reserve it for me.
+For what time?
+8 in the night, for 1 person
+I would like to confirm the following information: reservations for 1 for 8 pm today at the Matsu Sushi Japanese Restaurant at Pleasant Hill.
+Great. Is there live music? Is it a costly restaurant?
+I apologies, but I was not able to reserve a table for you. Is there anything else I can assist you with?
+Try again to book a table for 2
+I would like to confirm the following information: a table for 2 today at 8 pm at the Matsu Sushi Japanese Restaurant in Pleasant Hill.
+I would like a table for 11:45 in the morning.
+I would like to confirm the following information: reservations for 2 at 11:45 am
+That would be great.
+I apologies but I was not able to make the reservation. Should I try for 12 pm today for 2 persons at Matsu Sushi Japanese Restaurant?
+That would be great.
+I was able to make the reservation.
+I appreciate your assistance.
+Is there anything else I can assist you with?
+No, you have be most helpful.
+Enjoy your day.
+I am looking for an inexpensive place to eat that has live music.
+Which city would you like to search? And what type of food would you prefer such as Mexican, Italian or something else?
+I'd like some soup, and I'm looking in San Ramon.
+Noodles And Company is a nice resturant in San Ramon.
+What is their address and contact number?
+Their phone number is 925-275-8105, and their address is 3141 Crow Canyon Place.
+Yes, that would work.
+Would you like me to make a reservation for you?
+Yes, please make the reservation for 7:30 pm.
+I have booked a table at Noodles And Company in San Ramon at 7:30 pm today for 2 people. Is that correct?
+Yes, that's great. Do they serve liquor?
+Your reservation is booked. No, they do not serve alcohol.
+Thank you, that is all I need.
+Have a great day!
+Can you help me find somewhere to eat?
+Sure, what kind of food are you in the mood for, and in which city?
+Search in Cupertino for Dumplings.
+Cupertino has a dumpling restaurant called A Plus Cafe.
+Is it expensive, and do they serve alcohol?
+It's inexpensive, and yes, they serve alcohol.
+Can you look for another place to eat in Santa Clara?
+There's a nice place in Santa Clara called Chef Ming's.
+Can you suggest something in the moderate price range?
+How about China Stix in Santa Clara?
+Great, can you make a reservation on the 7th of this month?
+Yes, what time should I make it?
+How about 7:30 pm.
+Can you confirm the details for me? You're booking a table for 2 next Thursday at 7:30 pm at China Stix in Santa Clara.
+Yes, that's right. Do they serve alcohol?
+Your reservation has been confirmed. They don't serve alcohol.
+Great, thanks, that's all I need.
+Have a great day.
+Hey! Today feeling so tired... Wish to have some food outside in a good restaurant... Can you find me one?
+Yup! What kind of food do you like to have - Chinese, American, Italian etc? Which city you would prefer to have your lunch?
+I would love to taste some Seafood in San Mateo. Please find some good hotels.
+Please give me a moment. There are 9 restaurants with good rating and the top among them is Andes Cafe San Mateo located in San Mateo. Would you prefer to have your lunch here?
+How much they charge? Can I have their street address?
+They are located at 2317 South El Camino Real and their price range is neither costlier nor cheap, but only moderate.
+Yup, that works. Please can you reserve at this restaurant?
+Sure! At what time you wish to make your reservation?
+Probably at quarter past 1 in the afternoon.
+Okay! Confirm me the details that you wish to book a table at Andes Cafe San Mateo in San Mateo at 1:15 pm by today and the reservation would be for 2 persons, right?
+Yup! sounds good. I've a question... Did liquor is provided at this restaurant?
+Nope, they don't serve alcohol. You are all set. Successfully done with your reservation.
+Thanks for your time.
+Do you wish to know any other information?
+Nope, thanks a lot.
+Have a fantastic day.
+I'm looking for somewhere in Dublin to have a meal and a drink.
+What kind of food do you want to eat?
+I feel like a burger.
+I found 2 restaurants. One is the Black Angus Steakhouse in Dublin.
+Do you have anything else?
+Hot Crab is also located in Dublin.
+Do they have live music? What's the price range?
+The price range is moderate, there are no live music options.
+Oh okay. Yeah sure that's fine.
+Is there anything else?
+I'd like to make a reservation.
+Sure, what time?
+5 pm please. There's 3 people in the group.
+Okay. Please confirm that you'd like a booking for 3 at Hot Crab in Dublin today at 5 pm.
+Yeah that works fine. What's their address and phone number?
+You can call them on 925-999-9580 and their address is 4288 Dublin Boulevard #101-102. Your reservation has successfully been completed.
+Thanks a lot!
+Do you need anything else?
+No thanks, that's all.
+Okay, enjoy your meal.
+I am bored of eating food from home , i need a change . Will you find me a place to eat? It can be costly priced and i am very fond of it
+Which type of food you need whether Indian, Chinese or Anything other variety and In which city i should look for?
+I need Pizza kind of food and i wish to eat in city Napa.
+I found 1 Restaurant named as Bistro Don Giovanni which is located in Napa
+Will you specify restaurant address and whether they have live music ?
+Please note the address ,it is 4110 Howard Lane and they don't have Live music.
+Ok its fine , i prefer the same.
+Whether i need to reserve a table for you?
+Yes sure, Please make a reservation and number of people is 2
+At what time reservation to be?
+Please fix it at 11:30 am
+ok here are the details please check or review it . Table booked at Bistro Don Giovanni which is in city Napa. Reservation time is 11:30 am for 2 people and the date is today.
+sorry make the reservation time as Morning 11:45
+ok, please once again check the details. Reservation time for the table is at 11:45 am and for 2 people.
+ok its great and sounds good .Please inform me the contact number of that restaurant?
+Phone number is 707-224-3300 and your reservation is confirmed.
+Whether they serve liquor?
+sorry they do not serve alcohol .
+ok thanks a lot for your kind help
+Take care have a great day.
+I'm starting to get hungry. I want to go eat at a nice restaurant.
+Sure. What city would you like to eat in?
+Milpitas.
+Do you have a particular type of food you are craving? Mexican? American? Something else?
+I feel like Cambodian tonight.
+There is a Cambodian restaurant in Milpitas called Anh Hong.
+That's exactly what I'm looking for.
+Do you want me to make a reservation for you?
+Yes, I'd like to try this place out.
+Okay. At what time would you like to eat there?
+6:30 pm. Please make the reservation for four people.
+Sure. A reservation at Anh Hong in Milpitas for 4 at 6:30 pm today. Is that correct?
+Perfect. What are the prices at Anh Hong like?
+They have moderate pricing. Your reservation has been made.
+Thanks. You've been a big help.
+Have a nice day.
+I'm planning on going out to eat later on. Can you help me find a place to eat at?
+What sort of food do you want to eat and which city should I look in?
+I'd like to go to a restaurant in Martinez that serves Thai food.
+Okay, I found 1 nice restaurant in Martinez called Lemongrass Bistro.
+What's their phone number and do they serve alcohol?
+Their number is 925-387-0388 and they don't serve alcohol.
+Okay, great. I want to make a reservation please.
+When should I make it for?
+Make the reservation for 7 pm.
+Alright, please confirm that you'd like me to book a table for 2 at Lemongrass Bistro in Martinez for today at 7 pm.
+No, make it for 1 person on next Monday please.
+Okay, so you'd like a reservation for 1 person on next Monday, right?
+Yup, that's right. Can you tell me if they have a live band?
+Great, your reservation was made. And no, they don't have live music.
+Do you know if their menu is inexpensive and what their address is?
+Their address is 501 Main Street and their prices are moderate.
+Great, thanks!
+Is there anything else I can help you with?
+No thanks. That's all I needed help with.
+Have a nice day!
+I am looking for an intermediate priced eating place in the nearby area.
+What is your preference in regards to city and type of cuisine? You can say something like Italian, American or anything else.
+Any place in Pleasanton which serves Ramen kind of food and also alcohol will be ideal.
+There is a nice restaurant called Meiko Sushi in Pleasanton.
+That is good a good choice. Please make a reservation for six people for 3rd of March.
+What is the time for Reservation?
+Reserve it for Twelve pm.
+So, a table reservation at Meiko Sushi in Pleasanton will be for 12 pm on the day after tomorrow for 6 people. Please confirm the aforementioned details.
+Yes that is good.
+The reservation is successful.
+Thank you.
+Do you need any further assistance from me?
+No. This should be enough for now.
+Have a good day.
+I would like to it in a place in Pleasanton.
+What food would you like to eat?
+I would love some Noodles
+I have for you 3 option .One is a nice restaurant located in Pleasanton named Andy & Yu's.
+Can you tell me the phone number?
+925-750-8888 is the phone number
+Sounds good
+Would you like to make a reservation?
+Yes make it for 2 people
+At what time you want to be?
+I want to be at 6:45 in the evening
+Book a table at Andy & Yu's in Pleasanton at 6:45 pm today for 2 person is correct?
+No make it please at 12:45 for 4 people
+Reservation at 12:45 pm for 4 people Is OK?
+Yes is good.Tell me please if they serve Liquor and if they have a price range average priced
+Sorry the reservation was unsuccessful.Price range is moderate and they dont serve alcohol.Andy & Yu's is a nice place shall I try to meke a reservation for 4 person today at 12:30 pm?
+Yes is ok
+Reservation was successful made.
+Thank you very much that s all I need
+Have a great day!
+I'd like to find a place to eat.
+What city would you like to eat in and what kind of food do you like?
+I'd like a Barbecue food restaurant in Campbell.
+THere are 3 restaurants located in Campbell. Effie's Restaurant & Bar is nice.
+Is Liquor available? Where are they located?
+The address is 331 West Hacienda Avenue and they don't serve alcohol.
+Do you have any other suggestions that are also affordable?
+There are 2 restaurants in Campbell. Flights Restaurant Campbell is nice.
+I'd like another kind of restaurant. I'd like Sushi.
+Furusato in Campbell is a nice restaurant.
+That's great.
+Do you want to make a reservation?
+Yes I'd like to make a reservation.
+What time are you looking to book?
+Please can you book it for 7:15 pm.
+OK so you would like to book a table for 2 today at Furusato in Campbell for 7:15 pm.
+No, I'd like to book for March 14th.
+So to confirm, you would like a table at Furusato on March 14th.
+Perfect.
+Your booking has been confirmed.
+Do they serve alcohol? what is their phone number?
+Their number is 408-370-1300 and they don't serve alcohol.
+That's great. I don't need anything else right now.
+Enjoy your day.
+Will you find me a place to eat?
+Which city?
+Palo Alto.
+What kind of food?
+Brazilian.
+I found Pampas in Palo Alto.
+Great. Please make a reservation.
+What time?
+Quarter past 5 in the evening.
+Please confirm a table at Pampas in Palo Alto at 5:15 pm for 2 people today.
+No, change it to evening 6:15.
+Okay. A table at Pampas at 6:15 pm.
+Great. How pricey? What's their number?
+I've made your reservation. It's expensive. Phone number is 650-327-1323.
+Thanks.
+Anything else?
+No, thanks.
+Have a wonderful day.
+Will you find me somewhere to eat?
+Sure, what style are you in the mood for? How about Chinese or Mexican?
+I really need good pasta, I'm underweight.
+Of course, where do you want to go?
+Campbell please, thanks.
+You have 5 options: The top choice is A Bellagio Italian Restaurant in Campbell.
+I need someplace cheaper. I want to eat a lot for not very costly.
+Try Buca Di Beppo Italian Restaurant. It's in Campbell.
+Where are they located?
+1875 South Bascom Avenue is their street address.
+What's the situation with live music there?
+Sorry, no live music.
+Please give a better choice.
+Try Dicicco's Ristorante Italiano Autentico. It's in Campbell.
+You have found a winner.
+Can I get you a table?
+Please do that.
+What time do you want to show up there?
+5:30 pm should be prime pasta time.
+Ok, Let's be clear: 2 people for Dicicco's Ristorante Italiano Autentico. Today at 5:30 pm. in Campbell.
+Do they have been and liquor?
+I have your appointment set up. They do serve alcohol.
+Great, I want to toast the victory of the team.
+What else would you like?
+Nothing much. I'm good.
+Enjoy your pasta.
+I want to eat out at an intermediate priced location, can you find me some options?
+What food do you fancy? Is there anywhere you particularly want to go?
+I want to go to Milpitas. Spicy Indian food sounds perfect.
+I found 4 restaurants- how about Anjappar Chettinad Restaurant in Milpitas?
+Is there live music? What's the contact number?
+The contact number is 408-435-5500, but they don't have live music.
+Well, it works for me, can you make a reservation for 4 people at 1 o\"clock in the afternoon?
+So I'll book a table for 4 at Anjappar Chettinad Restaurant in Milpitas for 1 pm today. Is that okay?
+No, actually I want it for 3 people, and at evening 7:45.
+I've updated the reservation for 3 people, at 7:45 pm. Is that okay?
+Yes, that sounds good.
+I'm sorry, but the reservation was unavailable. Shall I try something else?
+No, thanks a lot.
+Have a good day!
+I am planning to go out for dinner. Can you find me restaurants nearby?
+Do you have a specific area in mind where you would like to eat.
+I would like to eat in Milpitas and the restaurant should be in the moderate price range.
+Is there a particular cuisine you would like?
+I am looking for restaurants that offer Take-out.
+There are 2 restaurants in Milpitas I have found. The Olive Garden Italian Restaurant meets your criteria.
+What is the other restaurant you mentioned?
+The other restaurant in Milpitas is Red Chillies The Malabar Cuisine.
+Where are they located?
+They are located at 167 South Main Street.
+I like that location. I would like to make a reservation at Red Chillies The Malabar Cuisine.
+At what time would you like the reservation?
+The reservation needs to be at 11 am.
+The reservation is for today at Red Chillies The Malabar Cuisine at 11 am in Milpitas. The reservation is for 2 people. Is this correct?
+The reservation should be for March 14th.
+The reservation is in Milpitas on March 14th. Is this correct?
+Please make the reservation for 18:00.
+The reservation is for March 14th and 6 pm. Is this correct?
+Yes, that is correct.
+Your reservation has been made.
+Does the restaurant have any live entertainment? Is their contact information available?
+They do not have live entertainment. The restaurant's phone number is 669-213-9385.
+I greatly appreciate your time.
+May I assist you with anything else?
+No. Thank you again.
+Enjoy the rest of your day.
+I'm feeling hungry, do you know of any places that average priced?
+Is there any particular food you're looking for, such as Italian, American, or anything else?
+I'm feeling a craving for Noodles.
+What city would you like me to look in?
+Look for a place in Dublin.
+There are 7 restaurants that could work. There's a nice one called China Paradise Restaurant in Dublin.
+Yeah, I like the sound of that.
+Do you want me to reserve you a table.
+Yeah, reserve me a table for one person please.
+And what time would you like this reservation.
+I want it on the 7th of March at 13:00.
+Your reservation will be for 1 person next Thursday at 1 pm at China Paradise Restaurant in Dublin. Is that correct?
+Sorry, it's actually for the 8th of March.
+So China Paradise Restaurant next Friday, is that right?
+Yeah, you got it. Do they have liquor over there?
+I'm sorry, they don't serve alcohol. I've made the reservation for you.
+Thank you, you're great. That'll be all.
+Very well, take care.
+I'm looking for somewhere to eat with my girlfriend, do you know of any good restaurants?
+What city should I search for the best restaurants?
+I want something with a moderate priced in Petaluma. It also needs to serve alcohol.
+What type of food do you want to eat?
+Some type of curry would be great, so Indian or Thai maybe.
+I found 1 restaurant, Shree Indian Cuisine. It's a nice restaurant in Petaluma.
+Yeah, that's great!
+Do you want to make a reservation here?
+Yes, I'd like to book a table.
+What time would you like the reservation?
+How about 11 in the morning?
+Okay, making a reservation for 2 people Shree Indian Cuisine in Petaluma at 11 am today. Is that correct?
+No, just for 1 person.
+Okay, making the reservation for 1 person at Shree Indian Cuisine in Petaluma.
+Yep, that's perfect. What's the restaurant's address?
+Your reservation has been booked. The restaurant is located at 220 Western Avenue.
+Thanks so much!
+Can I help with anything else?
+No thank you.
+Have a great day!
+I'm on a budget and I am looking for a cafe that is not very costly.
+What type of food are you in the mood for? How about Italian, Indian, something else?
+I am really hungry for Pizza and Pasta.
+Where would you like to eat at, what city?
+I have to have something in San Francisco.
+I have a good option, try 54 Mint Ristorante Italiano in San Francisco.
+Yes, please get me a reservation there.
+when would you like to eat?
+Please reserve at quarter past 5 in the evening.
+Let me clarify your plans: You want a table at 54 Mint Ristorante Italiano in San Francisco at 5:15 pm. today for 2?
+Yes, exactly please.
+I apologize, I was unable to process this. how about trying a reservation for 54 Mint Ristorante Italiano for 2 today at 5:30 pm instead?
+No, I don't want that.
+What else can I help with?
+Nothing, you've done quite enough.
+Have a good day.
+I'm hungry. Find places to eat please.
+Sure thing. Which city would you like to eat in?
+Let's go with Foster City please.
+Sure. What kind of food are you hungry for?
+Spicy Indian sound really good.
+One moment. I found a great restaurant called Pastries N Chaat in Foster City.
+Give me other suggestions as well
+How about, Tabla Indian Restaurant in Foster City?
+Can you find out if they are average priced?
+sure. The price range would be inexpensive.
+Perfect. That works
+Should I reserve for you?
+Yes, go ahead and do that.
+No problem. What time would you like a reservation for?
+How about this afternoon 1:45.
+One moment. Please confirm a reservation for 2 people, at Tabla Indian Restaurant in Foster City. At 1:45 pm today. Does this sound right?
+No it doesn't. Change to 5:45 pm on the 4th of this month please.
+One moment. Just to confirm: Your reservation is for 5:45 pm for next Monday. Does this sound right?
+Yes. that is perfect.
+Just to confirm, your reservation is successfully booked.
+Thanks, that is all i needed.
+Your welcome. Have a great day.
+Can you find a place to eat?
+What kind of food are you looking for? An example can be Chinese, American or anything else.
+Some Sichuan food would be good.
+Which city should I search in?
+Look in Mountain View.
+I found 3 restaurants. One of them is China Wok located in Mountain View.
+Is the restaurant inexpensive?`
+The price range is moderate.
+Can you suggest a restaurant with inexpensive pricing?
+Hunan Chili is an inexpensive restaurant in Mountain View.
+What is the address? Do they have live music?
+The street address is 102 Castro Street. They do not have live music.
+Yes, that's perfect. I want to reserve a table for 4.
+What time should I reserve for?
+6 in the evening.
+Ok, I will reserve a table for 4 at Hunan Chili in Mountain View. The reservation is today at 6 pm.
+That works for me. What is the restaurant's phone number?
+Your reservation is successful. Their phone number is 650-969-8968.
+Do they serve alcohol?
+Yes, they serve alcohol.
+Thanks. That's all I need.
+You're welcome. Have a good day.
+I would like to find a Chinese food restaurant.
+In which city?
+Search in San Mateo.
+There are 5 restaurants, Gau Poang is a nice restaurant located in San Mateo.
+How expensive are they?
+The price range is moderate.
+Can you suggest other restaurants in SF?
+Alice's restaurant is located in San Francisco.
+Can you suggest another restaurant?
+Bamboo Restaurant is located in San Francisco.
+What is the address?
+The address is 1441 Polk Street.
+Ok, make a reservation at 12 o\"clock in the afternoon.
+Please confirm you are booking a table for 2 at Bamboo Restaurant, located in San Francisco today at 12 pm.
+Yes, how expensive are they?
+Your reservation has been made. The price range is inexpensive.
+Thank you, that's everything.
+Have a nice day.
+Can you find me place to eat?
+What kind of food would you like to have and where would you like me to search in?
+Food kind of California will be perfect in SF.
+There are 10 restaurants, Al's Place is one of the good restaurant in San Francisco.
+Can you look for any other restaurant?
+Alta Msp is one of the good restaurant in San Francisco.
+Can you find me the address?
+The street address of the restaurant is 1275 Minnesota Street.
+Can you find me any other restaurant?
+Aq is one of the good restaurant in San Francisco.
+Do they play live music and is the price range low-cost?
+They do not play live music and the price range is very expensive.
+Okay. That sound good to me.
+Do you want my help with anything else?
+Can you help me in making a reservation at the restaurant?
+What time should i make the reservation for?
+The timing will be half past 7 in the evening.
+Please confirm the details: You want me to make a reservation at Aq in San Francisco for today at 7:30 pm for 2 people.
+Yes, that sounds great to me.
+Your reservation is successfully made.
+That will be all. Thank you.
+I am glad I could help. Have a nice day.
+I am searching for a eating place with a intermediate priced
+Which city you are interested and what is the type of food you are searching for like American, Mexican etc
+Some Izakaya kind of food good in Foster City
+I have found out 2 restaurant for you and one of them is Tokai Japanese Restaurant located in Foster city is a nice one.
+Can you tell me other restaurant names?
+The restaurant Tokyo Village Grill & Sushi located in Foster City is a nice one.
+Are there any live music?
+There is no live music.
+Ok. that is perfect for me and want to reserve that restaurant on March 4th.
+What is the reservation time?
+Do the reservation at evening 6:30
+please give the confirmation details:Booking the table at Tokyo Village Grill & Sushi at Foster City and the reservation is for 2 people at 6:30 pm on next monday
+This is perfect. what is the address and contact number?
+Your booking is done and their address is 1221 Chess Drive with phone number 650-341-6888
+Thanks a lot. That is all i want.
+have a great Day.
+i am meeting my friend after a long time and i wish to eat along with him. Will you find a place to eat and i don't have a price preference.
+Fine, Its sounds good. What type of food are you looking for ? whether American, Indian or anything else. Which city do you prefer?
+I like Pizza and Pasta kind of food and the place should be in San Francisco.
+There are 10 restaurants. One among is 54 Mint Ristorante Italiano which is a nice restaurant located in San Francisco
+I need their contact number? Please provide me
+Their Phone Number is 415-543-5100
+Ok, that great and sound good to me.
+Whether i need to reserve a table here?
+Yes i wank to make a reservation at 6 in the evening.
+Ok Please check and verify the following details so that i will confirm. Table has been booked at 54 Mint Ristorante Italiano in the city San Francisco and the reservation time is at 6 pm for 2 people and the date is today.
+Ok, very perfect. Book it. Do they have live music?
+Reservation is confirmed. They don't have live music.
+Tell me their address?
+Their address is 16 Mint Plaza
+Thanks a lot and thanks for your help
+Whether i need to find any other thing?
+No, thank a lot
+Take care have a great day
+Can you help me locate a place to eat?
+Which city should I look in and what type of food would you like? Please say Chinese, American or anything else.
+Some Punjabi food would be great. Please look in Pleasanton.
+I found 7 restaurants in Pleasanton. The first one is Aappakadai.
+Do they have live music?
+No, they do not.
+That is fine. Please make a reservation.
+What time would you like the reservation for?
+Please make if at 12:15.
+Please confirm the following details: Booking a table for 2 at Aappakadai in Pleasanton for today at 12:15 pm.
+Yes, that is correct. What is their address and phone number?
+Sorry, I was unable to make the reservation. The phone number is 925-750-7709 and the address is 4555 Hopyard Road. Aappakadai is a nice restaurant. Shall I try for a reservation for 2 at 12 pm today?
+No thank you.
+Have a good day.
+I'm looking for somewhere to eat.
+Where should I look? And what type of cuisine?
+I'd like pizza and somewhere in Sunnyvale.
+I found 3 places. Gumba's is a good place in Sunnyvale.
+What's their number?
+It's 408-737-8384
+Do they serve alcohol? What's their address?
+yes they do. they are located on 176 South Murphy Avenue.
+That works. I want to reserve a table.
+What time?
+Make it in the evening 7:15.
+Just to confirm, you want a table at Gumba's in Sunnyvale for 2 people today at 7:15 pm?
+No, make it in the afternoon 12:30.
+Okay, so a reservation for 2 at 12:30 pm?
+No, I want it to be for next tuesday, and only for one person.
+Okay, a table for 1 next tuesday?
+Yes.
+It was successful.
+Thanks, that's everything.
+Have a good day.
+I'm getting a craving for Diner food, can you help me look for a place?
+What's the city I should look in?
+Look in San Fran.
+There are 10 restaurants that fit what you're looking for. 1760 is a nice restaurant that's in San Francisco.
+Okay, that sounds good.
+Do you want me to make a reservation?
+Yeah, please make a reservation.
+What time do you want the reservation for.
+I want it for the evening 4:45.
+Okay, I'll you want a reservation at 1760 in San Francisco for 2 people, today at 4:45 pm, is that correct?
+No, it's just for one person. And on second though, can you make it at 6 pm.
+So the reservation is for 1 person at 6 pm, correct?
+Yeah, that's correct. Can you tell me their address?
+They're located at 1760 Polk Street. I've successfully made your reservation.
+Thanks so much.
+Do you need any further help?
+No, thanks again.
+Okay then, take care.
+I'd like to find somewhere to eat. Someplace intermediate priced.
+What kind of food are you interested in, and in which city should I conduct my search?
+Something Southern in the San Jose area would be great.
+There's a nice restaurant by the name of 71 Saint Peter in San Jose.
+Do you have any other suggestions? Maybe someplace with live music that also serves alcohol.
+Hukilau is another nice restaurant in San Jose that meets that criteria.
+What's their number?
+The number for Hukilau is 408-279-4888.
+And their address?
+The address for Hukilau is 230 Jackson Street.
+Do you have anymore restaurant suggestions?
+Another nice restaurant in San Jose is Rosie Mccann's Irish Pub & Restaurant.
+Sounds great.
+Would you like me to make a reservation for you there?
+Yes. Make it for a quarter to 12 in the morning.
+To confirm: You'd like me to make a reservation for today a 11:45 am for 2 guests at Rosie Mccann's Irish Pub & Restaurant in San Jose, correct?
+Yes, that's perfect. What's their address and phone number again?
+Your reservations has been made. The address is 355 Santana Row #1060, and the phone number is 408-247-1706.
+Thank you so much for all of your help.
+Enjoy your day.
+Please search for an economical priced place to eat that serves alcohol.
+What kind of food do you prefer? Which city should the search use?
+I prefer it in Oakland. I am craving Pizza.
+Your search found 4 restaurants. One is Belotti Ristorante E Bottega which is located in Oakland.
+Do they happen to have live music? What is their phone number?
+Their number is 510-350-7619. They do not happen to have live music.
+Are there other restaurant options?
+Contrasto is a nice restaurant and located in Oakland.
+That will do.
+Is there anything else you needed help with?
+I want to make a restaurant reservation.
+What time did you prefer?
+I would like it to be half past 11 in the morning.
+Please say yes to confirm the following. Booking a table at Contrasto in Oakland with a reservation at 11:30 am today. The reservation is a party of 2.
+Its actually a party of 4.
+Please say yes to confirm the following. The city is Oakland, and the reservation is for a party of 4.
+That will do.
+Your reservation has been made.
+Can you tell me what their address is?
+Thier address is 388 Grand Avenue.
+Thank you. That is all.
+Have a pleasant day.
+I want a good place to eat that is fancy priced
+what kind of food do you want? There is Mexican, Indian or anything else. What city do I need to search in?
+I need it in SFO. French food will be perfect.
+Bistro Aix is a good restaurant in San Francisco
+Yes that works. I want a reservation at a nearby restaurant.
+what time for the reservation?
+I want it at 13:15
+Confirm Bistro Aix and the city is San Francisco. Reservation os 1:15 pm and for 2 people today
+Is there live music?
+No live music at Bistro Aix but I shall try a reservation for 2 people today at 1:30 pm.
+Yes that works
+The reservation was a success
+Thanks that is all
+Have a good one
+I would like to look for a place where I could eat.
+What kind of food do you prefer to eat? Which city are you located now?
+Please look in Dublin, a burger is perfect to have now.
+I have found 1 restaurant that you might like, maybe you like McDonald's in Dublin?
+I want a restaurant with music.
+Yes, they have live music.
+Alright, please make a reservation for me at this evening 7:15.
+Please do confirm the following details: book seats at McDonald's in Dublin at 7:15 pm for 2 people today.
+Please make it at 7 pm.
+Please do confirm the following details: book seats at McDonald's in Dublin at 7 pm.
+Actually its for 3 people on 14th of March.
+Please do confirm the following details: book seats at McDonald's in Dublin for 3 people on March 14th.
+Yes, that's right. How about the price range, is it very fancy?
+The reservation has been successful. Price range is inexpensive.
+Thank you, that's all for now.
+Have a wonderful day!
+My husband and I want to have dinner out. Are there any good places to eat around here?
+What city are you interested in?
+I would like to stay around Milpitas.
+What kind of cuisine would you prefer?
+I would really like some Latin American food.
+There is a great restaurant called Baja Cactus in Milpitas.
+That's great, are there any other restaurants, maybe in Santa Clara?
+Santa Clara has a nice restaurant named El Amigo Burrito.
+How expensive are they?
+Their prices are inexpensive.
+Do you have any other suggestions?
+Santa Clara also has a great restaurant called La Paloma.
+Great, that's the one I want.
+Should I reserve a table for you?
+Yes, please. I want to eat there.
+What time is best for you?
+How about 12:30 in the afternoon?
+Please confirm your reservation. I have booked a table for 2 at La Paloma in Santa Clara at 12:30 pm today. Is that correct?
+Yes, that is correct? Can you tell me their address and if they are having live music?
+Great, I have booked your reservation. They will not have live music this evening, and the address is 2280 El Camino Real.
+Thank you so much! That's everything.
+Have a wonderful day!
+Do you know of any places to eat in San Francisco?
+Is there a specific food you're looking for, for example Indian, Italian, or anything else?
+American food would really hit the spot.
+There's a nice restaurant called 1760 in San Francisco.
+Do you have any other suggestions? I would prefer something with a moderate price range.
+There are 10 restaurants that match. There's a nice restaurant called Academy Bar and Kitchen that's in San Francisco.
+Do you have their phone number? And do they serve liquor?
+You can call them at 415-775-1800. And they do not serve alcohol.
+Okay, that works. Please make me a reservation for 12:45 pm.
+So you'd like a 12:45 pm reservation today at Academy Bar and Kitchen in San Francisco for 2 people, is that right?
+Yeah, that's it.
+I've made the reservation.
+Thanks so much.
+Do you need any further help with anything?
+No, thanks a lot.
+Okay, have a good rest of you day.
+I'm looking for restaurants.
+In which city?
+In Oakland.
+Which cuisine? Maybe Mexican or Indian?
+I like Fish best.
+I found 7 restaurants matching this query. One is Alamar Kitchen & Bar in Oakland.
+Any other options?
+There's Judoku Sushi in Oakland.
+Any others? I want something afforadable.
+I found 4 restaurants to match. One is Lake Chalet in Oakland.
+Do they have liquor and live music?
+They do have liquor and live music.
+That works. I want to make a reservation.
+For what time?
+For two people, 10:30 in the morning.
+Please confirm: Table for 2 at Lake Chalet, 10:30 am today in Oakland.
+That works. What's their address and number?
+Sorry, I couldn't make that reservation. Can I help with something else
+Try booking again, for 1 person at 12:30.
+Please confirm: Table for 1 at Lake Chalet, 12:30 pm today in Oakland.
+That's perfect.
+Reservation complete.
+Thanks, that's all I need.
+Have a nice day.
+I would like to find a place to eat.
+What kind of food are you wanting? And where should I search?
+Find me a sushi place in Alameda.
+I have found a restaurant called Angel Fish in Alameda.
+That works for me. I would like to make a reservation.
+What time should the reservation be?
+I would like it at afternoon 1:15.
+Please confirm the following: You want a table at Angel Fish in Alameda at 1:15 pm today for 2 people.
+Yup, that's correct.
+Your reservation has been made.
+Thanks so much. That's all for today.
+Have a wonderful day.
+Hi I'm hungry and also need to let loose tonight. Can you find me a place to eat that serves alcohol?
+Sure, what city would you like to dine in and what kind of cuisine are you looking for?
+I'm in the mood for some Chinese food tonight, preferably in Millbrae.
+I managed to find 1 restaurant in Millbrae, it's called Tai Wu Restaurant. I think you'd like it.
+That sounds good to me.
+Should I reserve a table for you?
+Yes, that would be great. Please make a reservation.
+What time would you like to dine at?
+I'd like to be there at evening 7:30.
+So you'd like a table for today at Tai Wu Restaurant for 2 people at 7:30 pm in Millbrae. Is that correct?
+That sounds great.
+Your reservation has been booked!
+What is the address of the restaurant?
+The restaurant is located at 300 El Camino Real.
+Thanks for everything, that's all I needed.
+Enjoy your day!
+I'd like to find a place to eat in this city.
+What kind of restaurants are you interested in? Which city should I search?
+Look for burger restaurants in Campbell.
+There's a good restaurant in Campbell called Effie's Restaurant & Bar
+What is Effie's address and do they serve drinks?
+They don't serve drinks but their address is 331 West Hacienda Avenue.
+I'd like to make a reservation there.
+What time would you like your reservation?
+Make it on the 4th of this month please in the evening 6:30.
+Please confirm your request: You'd like to book a table for 2 at Effie's Restaurant & Bar in Campbell at 6:30 pm for next Monday.
+No I'd like a reservation on the 1st.
+Please confirm the city you're booking in is Campbell and the date is for today.
+No the reservation is for 3 people.
+Please confirm: the reservation you want is for 6:30 pm for 3 people.
+Yes, sounds good.
+Great, I made the reservation.
+Do they play live music and what is their phone number?
+Their phone number is 408-374-3400 and they don't have live music.
+Thanks, that's all.
+Have a great day.
+What would be a good place to eat?
+What sort of food are you looking for? Mexican, American, etc? And which city should I search in?
+I want some Noodles, and search in Berkeley.
+Upon searching I have found 6 restaurants. There's one called Crave Asia which is pretty nice and situated in Berkeley.
+Do you have their number? And do they have live music?
+Unfortunately no, they do not have live music, however here is the number: 510-558-8367.
+I think that works out, make a reservation at the restaurant.
+What time should the reservation be for?
+11:30 in the morning seems good.
+Okay, please confirm the details one more time: Booking a table for 2 people at Crave Asia in Berkeley, the reservation should be for 11:30 AM and the date is today, correct?
+Yeah, that's good. Do they serve liquor, and what is their address?
+Your reservation is successful. Their address is 1301 San Pablo Avenue and no, they do not serve alcohol.
+Okay, thank you very much.
+Is there anything else you want help with?
+No, I do not. Thank you.
+Have a great day.
+I am looking for somewhere to eat? Do you know of any good places?
+What kind of food do you have a taste for? Are you looking for somewhere near by?
+I was thinking in Petaluma. Preferably a Pizza place.
+I've found 4 in Petaluma, Brixx Pizzeria is a nice restaurant.
+Are there any others?
+Cucina Paradiso is also a nice one in Petaluma.
+Any other suggestions?
+Risibisi is another nice restaurant in Petaluma.
+Is it an inexpensive restaurant? What is the address?
+Their prices are moderate. The address is 154 Petaluma Boulevard North.
+That sounds like a good choice.
+Would you like me to make a table reservation?
+Yes. Reserve it for half past 1 in the afternoon.
+Please confirm that you are booking a table at risibisi in Petaluma. Your reservation will be at 1:30 pm. Set for today for 2 people.
+That works for me. Do they serve alcohol?
+Your table is reserved. Yes they serve alcohol.
+What number can I reach them at? Do they have live music?
+The phone number is 707-766-7600. They do not have live music.
+Thanks. That is all.
+Have a great day.
+I need a place to eat.
+In which city should I search and what type of food are you interested in. Please specify if you want American, Mexican or something else.
+I'm looking for brunch in San Fran.
+There is a nice restaurant named 1300 On Fillmore located in San Francisco.
+Is there a different restaurant you can suggest.
+There is another nice restaurant named the Absinthe Brasserie & Bar in San Francisco.
+Is there any other restaurant you can suggest?
+Aperto is another nice restaurant in San Francisco.
+Is there live music there?
+No. Sorry,there is not live music.
+Where are they located?
+They are located at 1434 18th Street.
+Yes. I would like to book a table.
+What time would you like me to reserve?
+I need it for 11:00.
+Please confirm you want me to reserve a table for 2 people at 11 am at Aperto in San Francisco today.
+Yes, perfect. Is it in the very fancy price range?
+Your reservation was a success. The restaurant is in the moderate price range.
+Can I have their contact phone?
+The restaurant's phone number is 415-252-1036.
+Thanks. That's all.
+Enjoy the rest of your day.
+I need to find somewhere to get a good meal in Pleasanton, can you help?
+Sure, what kind of food do you want? You can request American, Mexican, or anything else.
+I want Japanese food, my girlfriend is from Osaka, I'm trying to impress her.
+Okay, I found 4 good Japanese places. How about Meiko Sushi in Pleasanton?
+Is there anything else? I want something a bit more afforadable.
+I found 2 affordable places in Pleasanton. How about P.f. Chang's?
+Do they serve liquor and play live music?
+They do serve liquor, but they don't play live music.
+Okay, that'll be fine.
+Would you like to book a table?
+Yes thanks, please book it.
+What time would you like to book?
+7:45 in the evening please.
+Okay, please confirm that you'd like to book a table for 2 at P.F. Chang's in Pleasanton for 7:45 pm today.
+Yes, that's perfect.
+Sorry, I couldn't book the table. How about booking the table at P.F. Chang's for 2, today at 7:30 pm instead?
+Yeah, that's okay.
+Okay, it's booked for you.
+Thanks. Where are they? How can I call them?
+They're at 1330 Stoneridge Mall Road and you can call them on 925-224-9916.
+Okay, thanks. That's all for today.
+Okay, see you.
+Do you know a place to eat?
+Which city are you looking?
+Do you know a place to eat in Petaluma?
+What kind of food?
+I am looking for an Italian restaurant.
+In Petaluma there are 4 restaurants. Brixx Pizzeria is a nice one.
+What's the number of the restaurant? Is there live music?
+They do have live music. The number is 707-664-1418.
+I would like to make a reservation for six at a restaurant.
+What time do you want the reservation?
+At 5 pm.
+You want to make a reservation at 5 pm today for 6 people at Brixx Pizzeria in Petaluma?
+Yes that's right. What's the address?
+Done. The address is 16 Kentucky Street.
+That's all. Thanks.
+Good day.
+Hello! I am looking for a place to eat.
+Which city would you like to eat at?
+I would prefer to eat at Pleasanton.
+Do you have any food preferences, such as American, Indian or some other cuisine?
+I would like something on the lines of Izakaya food.
+There is a nice restaurant called Meiko Sushi located in Pleasanton.
+Sure, that sounds great!
+Would you like me to make a reservation there?
+Sure! Please reserve a table for me at 12:30 pm.
+Please confirm your reservation for 2 at Meiko Sushi in Pleasanton at 12:30 pm today.
+Yes, that's fine for me.
+Sorry, I was not able to make the reservation due to certain issues. Can I further assist you?
+How about placing a reservation at 19:15 instead?
+Sure! Please confirm your reservation for 2 at Meiko Sushi in Pleasanton at 7:15 pm today.
+That is fine for me. What is their address and do they serve liquor?
+My apologies, I was not able to make the reservation. Alternatively, would you like a for 2 at Meiko Sushi in Pleasanton at 7:30 pm today instead? They are located at 4301 Valley Avenue B.
+Sure, that sounds great!
+Your reservation has been made.
+Thank you, that's all the help I need.
+No problem! Have a great day ahead!
+I'm looking for restaurants to dine in.
+What city and what kind of cuisine are you interested in?
+I'd like to try Punjabi food, somewhere in SFO.
+I've found 10 possible options - Amber in San Francisco has 4.2 stars.
+Does that restaurant serve alcohol?
+Amber restaurant does not serve liquor.
+Alright, that works for me.
+Would you like to reserve a table in this restaurant?
+I think so, yes.
+What time would you like to arrive at?
+I'd like to reserve the table for lunch, so 11 o\"clock in the morning, for 2 people.
+To review: You'd like to make an 11 am reservation at Amber restaurant in San Francisco for 2 people, today.
+That sounds right, yeah.
+Your table has been reserved.
+That's all I need today, thanks.
+Have a great day.
+I have a friend visiting from out of town and need to find somewhere good for us to eat. Can you look up restaurants in San Jose?
+Sure, what kind of food are you interested in?
+Some kind of Freshwater fish would be great.
+I found 10 possible options in San Jose. How about Ariake?
+How expensive is it?
+Looks like it's in the moderate range.
+Ok, that sounds good.
+Did you want to go ahead and make a reservation?
+Yes, please do.
+What time would you like it at?
+Can you make it on the 10th of this month at a quarter to 7 in the evening?
+Sure. Just to confirm, you'd like to make a reservation for 2 people at Ariake in San Jose on March 10th at 6:45 pm. Is that right?
+Yes, that's perfect.
+Sorry, the reservation won't go through for some reason. Is there anywhere else you'd want to go?
+Can you try making the reservation for 1 in the afternoon?
+Sure. Just to confirm, you'd like to make a reservation for 2 people at Ariake in San Jose on March 10th at 1 pm. Is that right?
+No, actually, change that to Tuesday next week.
+Ok, just to confirm, I'm making the reservation at Ariake for next Tuesday.
+Yes, that's perfect.
+Ok, I've made your reservation.
+Great, thank you!
+Anything else I can help with?
+No, thank you.
+Have a good day.
+I think dining out will be a wonderful thing. Look for a suitable place please.
+Do you prefer any city and what should be the menu?
+It will be fine at San Francisco and pizza and pasta will cherish me.
+Then 54 Mint Ristorante Italiano in San Francisco will be the right one.
+Great, make a reservation for me.
+When you would like to dine at?
+5:30 in the evening.
+Please confirm, Today at 5:30 pm in San Francisco, table 54 Mint Ristorante Italiano for 2 people.
+Please make it on March 3rd for 3 people.
+It is ok, now verify for 3 people on day after tomorrow.
+will you make it at 11:30 am on 7th of March?
+The details of reservation are, time 11:30 am on next Thursday.
+Ok, its fine. thank you.
+Reservation is successful, good luck.
+Grateful, thank you.
+Have a wonderful day.
+I am meeting a friend for food later. Can you find me a pricey place nearby?
+Are you looking for Mexican, American, or some other type of food?
+A place with pasta will be perfect?
+What city are you meeting in?
+We are meeting in San Francisco.
+There is a nice restaurant in San Francisco called Ala Romana.
+Are there any other nice restaurants in the area?
+Che Fico is another nice restaurant in San Francisco.
+Do they serve liquor?
+They do not serve liquor.
+Can you suggest any Mexican food restaurants?
+There are 3 Mexican restaurants in the area. Cala is a nice one in San Francisco.
+Do they serve liquor?
+Yes, they serve liquor.
+I want to make a reservation for Cala.
+What time would you like to make the reservation for?
+Make it for one in the afternoon on March 7th.
+To confirm, the reservation is at Cala in San Francisco at 1 pm next Thursday for 2 people.
+Please change it to a quarter past 12 in the afternoon.
+To confirm, the reservation is at 12:15 pm for 2 people.
+Yes, that is good. Do they have live music?
+They do not have live music. I was unable to make the reservation at Cala, shall I try to reserve next Thursday at 12 pm for 2?
+Yes that works.
+Your reservation was successful.
+Thank you very much.
+Is there anything else I can help you with?
+No, that is all.
+Have a good day.
+I want to go out to eat in Milpitas.
+Alright, what type of food would you like?
+I'm looking for take-out.
+I found 2 possibilities. There is an Olive Garden Italian restaurant in Milpitas.
+Alright, what is their number? Do they have live music?
+The number is 408-935-8176. No, they do not have live music.
+Alright, that works.
+Would you like to go ahead and reserve a table?
+Yes, make a reservation for three people.
+What time would you like the reservation?
+At 1 pm, please.
+Please confirm the following: You want a table for 3 at Olive Garden Italian Restaurant in Milpitas today at 1 pm?
+Yes that's right.
+Sorry, I was unable to confirm your reservation. Can I assist you with anything else?
+Can you try booking again for 4 people?
+Please confirm the following details: You want a table for 4 at Olive Garden Italian Restaurant in Milpitas today at 1 pm?
+No, actually make it half past 6 in the evening.
+Alright, please confirm the following, you want a table at Olive Garden Italian Restaurant at 6:30 pm.
+Yes that works. Can I have the address? Also how expensive are they?
+Your reservation is complete. The address is 1350 Great Mall Drive. The price range is moderate.
+Thanks, that's all I needed.
+Enjoy your evening!
+I would like to eat at outside, can you find some nice place?
+Do you like any particular kind of food like Italian, Chinese or any other?
+Yes, some salad type food with low-cost will be perfect. Also I need live music there.
+Any preferred City , do I search for?
+If I got any place in San Jose then it will be nice for me.
+found 1 result, a restaurant in San Jose and its name is Mcdonald's.
+What is the address of that restaurant?
+It is 777 story Road.
+Do they have any liquor supply?
+No, they do not.
+That's okay, can you make me a reservation at this restaurant for day after tomorrow.
+at what time?
+11:30 in the morning will be perfect.
+Please confirm to book a table for 2 persons at Mcdonald's in San Jose at 11:30 am on day after tomorrow.
+Make it for one person.
+Please confirm to book the table for 1 person in San Jose.
+Sorry, please change it to 3 persons and the date will be 2nd of March.
+Please confirm to book the table for 3 persons on tomorrow.
+Yes, that is correct. continue.
+Your booking was confirmed.
+Thanks, that's all I want.
+Have a great day.
+I am trying to find fancy place to eat. I'm willing to pay more for a nice meal.
+What type of food would you like to eat? Which city will you be dining in?
+I'm looking to have Korean Barbeque. I'm looking in Santa Clara.
+There is 1 restaurant that matches that. There's a nice restaurant called Restaurant Chungdam in Santa Clara.
+Do they have alcohol?
+Yes, they do serve alcohol.
+That sounds great.
+Excellent. Would you like me to reserve a table for you?
+Yes. I would like to make a reservation for 20:00.
+Great. Please verify that the following is correct: one table to Restaurant Chungdam in Santa Clara at 8 pm today for 2 people.
+That's correct. Will there be live music? Also, where is the restaurant?
+I couldn't make that reservation for then, I apologize for the inconvenience. Is there anything else I can help you with?
+Yes, I'd like to make the reservation at 7 in the evening.
+Great. Please verify that the following is correct: one table to Restaurant Chungdam in Santa Clara at 7 pm today for 2 people.
+That sounds good.
+I've made that reservation successfully.
+Thank you!
+Anything else I can do for you?
+Nope. That's all.
+Enjoy the rest of your day!
+I want to find somewhere to eat. It needs to serve alcohol and it doesn't matter if it's pricey.
+What type of food do you want? How about Mexican or Italian? What city should I search in?
+Look in SFO. I'm feeling Japanese food.
+I've found 4 potential restaurants for you. How about Izakaya Sushi Ran in San Francisco?
+What's the address and number?
+The address is 2223 Market Street. The number is 415-655-3738.
+That sounds good.
+Should I reserve a table for you?
+Yes. Make it for evening 5:45.
+Okay, please confirm: Table for 2 at Izakaya Sushi Ran in San Francisco today at 5:45 pm.
+No, it's for 1 person. Let's do it on the 8th.
+Okay, please confirm: reservation for 1 next Friday.
+No. Make it for 3 people at 11:15.
+Please confirm: reservation for 3 people at 11:15 am.
+Yes, that's right. Do they have live music?
+The reservation has been made. They do not have live music.
+Thanks. That's it for now.
+Have a great day.
+Where can I go to eat that also serves alcohol?
+Are you looking for American or Chinese food, or something else?
+I want to go somewhere where I can get a reasonably priced burger.
+What city would you like to eat in?
+I'd like to eat somewhere in Berkeley.
+The B&b Kitchen & Wine Bar is a great restaurant in Berkeley and a local favorite.
+Okay, please make a reservation.
+When would you like the reservation for?
+Half past 1 in the afternoon will be fine.
+I have booked a table for 2 at B&b Kitchen & Wine Bar for today at 1:30 pm in Berkeley. Is this correct?
+That sounds great. Is there live music and where are they located.
+There were no reservations available. Do you need anything else?
+Make a seven pm reservation at a restaurant.
+I have booked a table for 2 at B&b Kitchen & Wine Bar for today at 7 pm in Berkeley. Is this correct?
+Yes, thanks.
+The reservations has been made.
+Ok, thank you.
+Hope you have a great day.
+Could you suggest a place to eat?
+Do you want American, Indian or what type of food?
+I think I'm craving Mexican food.
+Where should I search for?
+I want to eat in San Mateo.
+There's a nice restaurant in San Mateo called Celia's.
+That sounds great.
+Do you want to make a reservation?
+Yes, I want to make one.
+At what time do you want it?
+11:30 am is fine.
+Please confirm: Making a reservation for 2 people at Celia's in San Mateo for today at 11:30 am.
+Correct. What is the phone number of the place and does it have live music?
+The reservation was made. The phone number is 650-349-0165 and the do not have live music.
+Thank you. That's all.
+Good day.
+I am looking for a place with good breakfast.
+Which city?
+SFO
+I found 10 restaurants. One of them is Baker Street Bistro in San Francisco.
+Is there anything else?
+Blue Mermaid in San Francisco.
+Sounds great.
+Do you want to make a reservation?
+Yes. At evening 5:30, please.
+Please confirm Blue Mermaid in San Francisco at 5:30 pm for 2 people today.
+Sounds good.
+I've made your reservation.
+Where are they located? Do they serve alcohol?
+They are located at 471 Jefferson Street. They do serve alcohol.
+Thanks, that's all for now.
+Have a wonderful day.
+Can you recommend me somewhere to eat?
+What city do you want me to look in?
+It should be in SFO.
+Okay, what type of cuisine do you want?
+I'd like to get some Middle eastern food in Oakland.
+There's a good restaurant in Oakland called Dyafa.
+How about something else? I'm looking for a meal on a budget.
+I found 1 that might work for you. It is called Marhaba Indian & Pakistani Halal Cuisine and it is in Oakland.
+What is the address?
+It is located at 1437 Franklin Street.
+Okay, that sounds good.
+Should I reserve you a table there?
+Yeah, make a reservation please.
+What time should I make the reservation for?
+I'd like it to be at 13:30.
+Okay, so you would like to reserve at table at Marhaba Indian & Pakistani Halal Cuisine in Oakland, for 2 people today at 1:30 pm. Is that correct?
+No, it is just for 1 person.
+Okay, so you'd like to make a reservation for 1 person today?
+Yes, that sounds good.
+Okay, your reservation was completed successfully.
+Okay great, thanks.
+Is there anything else you need?
+No, that's all thanks.
+Okay, have a nice day.
+I would like to eat out side this time, can you search for a nice place?
+Yes, of course, which City do you like to eat? any preference?
+Ya, I like to eat at some nice place in Calistoga.
+Is there any preferred food specially liked by you?
+I like Taiwanese food so much, can you find something?
+I got details about 1, Soo Yuan Restaurant is the best one which is located in Calistoga as per your wish.
+Is there any liquor supply? and let me know the address.
+Yes they supply alcohol and the address is 1354 California 29.
+That's fine, please make reservation for 4 including me.
+at what time?
+1:30 in the afternoon will be fine.
+Please confirm: Booking for a table for 4 persons at Soo Yuan Restaurant in Calistoga at 1:30 pm today.
+Yes, that will be fine.
+Your booking was confirmed.
+Thanks for your help, that's enough to me.
+Have a great day.
+I have a date later and I am looking for a good place to eat.
+What type of cuisine are you in the mood for? Which city will you be going to eat?
+I will be in Berkeley and am in the mood for some Breakfast type of food.
+I found 1 match called the Venus Restaurant in Berkeley.
+Can you give me their address?
+You can find them at 2327 Shattuck Avenue.
+That works out great.
+Would you like to go ahead and make a reservation?
+Yes please. Go ahead and place the reservation.
+What time did you have in mind?
+It is for 1 person at 12:15 in the afternoon.
+You would like to book a table for 1 at 12:15 pm today at the Venus Restaurant in Berkeley. Is that correct?
+Actually I changed my mind, make it at evening 6:45.
+You would like a reservation for 1 at 6:45 pm, is that correct?
+Yes that is what I want. Can I have a contact number?
+I apologize but I was unable to confirm the reservation. You can reach them at 510-540-5950. Should I try a reservation for 1 person today at 7 pm at the Venus Restaurant?
+Yes please.
+Your table was successfully booked.
+I'm a little concerned about price. Would you say that the price range is not very costly.?
+I would say they have moderate pricing.
+Thank you so much for your time.
+Is there anything else I can do for you today?
+No, that is all. Thank you again.
+It was my pleasure. Have a great day.
+Can you recommend a restaurant where I can go for a meal.
+Would you like me to search by any particular type of cuisine and city?
+I would like a reasonably priced restaurant that serves Sushi in San Rafael.
+There is a great restaurant called Sushi To Dai For in San Rafael.
+Can you tell me their exact location.
+They are located on 816 4th Street.
+Can you tell me the phone number for the restaurant? And I would like to know if they have live music as well.
+I am sorry, but they do not have live music. However, the phone number for the restaurant is 415-721-0392.
+I would like the name of another restaurant, one that serves Sichuan food, please.
+There is a great restaurant that serves Sichuan cuisine in San Rafael called Yet Wah Restaurant.
+Sure, that sounds good. I would like to go ahead and make a reservation for that restaurant.
+What time would you like me to make the reservation for?
+I would like to reserve for 7 in the evening for Monday next week.
+Excellent. Can you make a reservation at Yet Wah Restaurant in San Rafael for 7 pm next Monday for 2 people?
+Sure, that's perfect.
+Your reservation has been confirmed.
+Great. Thanks
+Would you like help with anything more?
+No, all set. Thanks.
+I hope you enjoy the rest of your day.
+Please book me a restaurant in Cotati.
+What kind of food would you like to eat? Perhaps Chinese, American, or another?
+I would like to eat tacos, if available.
+There is a restaurant called Mi Pueblo in Cotati that has good tacos.
+Can you find me another restaurant in Cotati with live music?
+There's 1 restaurant in Cotati that fits your criteria. It is called Mi Ranchito.
+Please tell me the address of the restaurant and their general prices.
+Their address is 7600 Commerce Boulevard and their prices are moderate.
+That seems like a good fit.
+Please indicate whether or not you wish to reserve a table.
+I would like to reserve a table for two people tonight.
+What time would you like to make the reservation for?
+I would like to reserve a table at half past 6 in the evening.
+Please verify the following details. You would like to reserve a table for 2 today at 6:30 pm at Mi Ranchito in Cotati.
+Yes, I confirm those details.
+The reservation has been successfully made.
+Can you tell me if they serve alcohol, and their phone number?
+Their phone number is 707-795-7600 and they do not serve alcohol.
+Thank you for your assistance.
+Enjoy the rest of your day.
+I am looking for a place to eat. I don't have a price preference.
+What city should I search in?
+Show me places to eat in San Francisco. I am looking for something afforadable priced.
+What kind of food would you like to eat.
+Some Pizza and Pasta would be perfect.
+I found 10 restaurants that serve pizza and pasta. 54 Mint Ristorante Italiano is a nice restaurant located in San Francisco.
+Yes, that works for me.
+Would you like to reserve a table?
+Yes, I would like to make a reservation. Make a reservation for Sunday this week for 4 people.
+What time is the reservation for?
+Mate it at 17:30.
+Please confirm the following details: You are booking a table at 54 Mint Ristorante Italiano, the city is San Francisco, the reservation is at 5:30 pm, the date is the day after tomorrow, and the reservation is for 4 people.
+No, I want it on Thursday next week.
+Please confirm these updated details: The date is next Thursday, and the reservation is for 4 people.
+No make it at 19:30 and make the reservation for five poeple.
+Please confirm the updated details: the reservation is at 7:30 pm and it is for 5 people.
+Yes that works for me. Do they have live music.
+Your reservation is successful. They do not have live music.
+Do they serve liquor? What is the address of the restaurant.
+They serve alcohol. Their address is 16 Mint Plaza.
+Thank you very much!
+Can I help you with anything else?
+No. Thank you very much.
+Have a good day.
+Can you find me a place to eat please?
+Where at? And what kind of cuisine are you craving?
+Somewhere in SF, and I am really craving Thai food at the moment!
+I found a bunch of restaurants, there's actually 10 that you might like in San Francisco, one of them being Baan Thai House & Wine Bar
+How can I reach them? And what's their address?
+You can reach them by phone at 415-379-4505 and visit them at 534 Irving Street
+Great, that restaurant sounds good
+Want me to book a table?
+Yes book me a table
+What time do you want the reservation?
+Let's do dinner at 6 in the evening
+Confirming your 6 pm booking today for 2 people at Baan Thai House & Wine Bar in San Francisco.
+Actually let's just do it for one person
+Confirming your 6 pm reservation for 1 then?
+Yes that's right
+I was able to book it
+Thanks so much
+Can I do anything else for you?
+No that's it for now, thanks
+You're welcome, enjoy your dinner
+Give me a place to eat at.
+Which city should I search? Is there a specific food type you would like to eat, such as American or Italian?
+San Bruno, I am looking for low priced, Taiwanese food.
+China Garden fits your preferences in San Bruno.
+Whats the address?
+586 San Mateo Avenue
+Do they serve liquor?
+They do not serve alcohol.
+Could you suggest another similar restaurant that serves alcohol?
+Dumpling Era in San Bruno serves alcohol.
+Could you suggest another restaurant without the price limitation?
+I found 1 restaurant: Ming's in San Bruno.
+That works. I'd like to make a reservation at half past 12 in the afternoon for 6 people.
+Please confirm: I am booking a table at Ming's, in San Bruno. The reservation is for 6 people, today at 12:30 pm.
+Correct. What is their address?
+Sorry, I was unable to make a reservation. Can I do anything else?
+Make the reservation at eleven am.
+Please confirm: I am booking a table at Ming's in San Bruno, the reservation is at 11 am today for 6 people.
+Make the reservation for four people.
+Confirm: The reservation is at 11 am for 4 people.
+Yes! Do they have live music and serve liquor?
+Your reservation is successful. They do not serve alcohol or have live music.
+Thank you very much.
+Can I help you with anything else?
+No, thank you.
+Have a good day
+I am looking for a Greek place to eat please.
+Which city should I search in?
+Please locate one in San Carlos.
+I found 2 Greek restaurants. Agora is a nice one located in San Carlos.
+Can you suggest any other restaurants? One that serves Spicy Noodles would be perfect.
+I located 2 restaurants. Asya Restaurant is nice and located on San Carlos.
+Could you suggest any other ones? I'd like one that serves alcohol.
+I found 1, Thai Time is nice and located in San Carlos.
+Yes, that sounds good. Please make a reservation.
+What time would you like?
+Please make if for 12:45.
+Please confirm the following: Booking a table for 2 today at Thai Time in the city of San Carlos for 12:45 pm.
+Yes, that is correct. Can you please provide me their phone number and address?
+Your reservation is confirmed. The phone number is 650-596-8433 and the address is 1240 El Camino Real.
+Thank you very much, that is all I need.
+Have a good day.
+Please help me find a restaurant.
+Please name the city I should search.
+I am looking for a restaurant in Petaluma.
+What type of food do you prefer? Please say Indian, Chinese, or something similar.
+Somewhere similar to Asian Fusion would be nice.
+How about Flowering Tea House in Petaluma?
+Yes, please make a reservation for 5:15 in the evening, next Friday.
+Please confirm your reservation details: Reservation for 2 next Friday, at 5:15 PM, in Petaluma at the Flowering Tea House.
+No, it's only for 1 person. Please make the time quarter past 1 in the afternoon.
+Please confirm your reservation details: Reservation for 1 person at 1:15 pm.
+Actually, no. Make it the 13th of this month for 3 people.
+Please confirm your reservation details: March 13th for 3 people.
+Yes, that's correct. Does this restaurant serve liquor?
+Sorry, I was unable to process that request. Flowering Tea House does not serve alcohol. Shall I make a reservation for 3 people on March 13th at 1 pm?
+No, that will not work.
+May I be of assistance another way?
+No, that will not be necessary.
+Thank you, have a nice day.
+I want to go out to eat.
+Where are you located? What kind of food do you like? I can find Chinese restaurants, American restaurants, and others.
+I am in Campbell. I am looking for pizza and pasta with a moderate price.
+There are 5 of those restaurants locally, including A Bellagio Italian Restaurant in Campbell.
+That sounds good.
+Do you want to make a reservation?
+Yes please!
+When do you want to go?
+I want the reservation for 11:30.
+Please confirm you want to make a reservation at 11:30 am today for 2 people at A Bellagio Italian Restaurant in Campbell.
+Yes that is perfect. What is the address and phone number?
+The reservation is confirmed successfully. The phone is 408-370-7705 and they are located at 33 South Central Avenue.
+Thanks for your help.
+May I further assist you?
+No, that will be all.
+See you soon!
+I would like to find a restaurant please.
+Which city would you like to eat in and what kind of food would youn like to eat?
+I would like a restaurant that serves alcohol in San Francisco. I'd like to eat in a Burgers restaurant please.
+There were 8 matches to your inquiry. 5a5 Steak Lounge is a nice place that's in San Francisco.
+Can you please make another suggestion?
+Alexander's Steakhouse is also a nice place in San Francisco.
+I'd like another suggestion please.
+There's another restaurant in San Francisco that's called Bourbon Steak Restaurant.
+Yes, I'm interested in that one.
+You like me to make a reservation for you?
+Yes, please. I would like a 13:30 reservation.
+Can you confirm the reservation details please? I am booking a table at Bourbon Steak Restaurant in San Francisco. The reservation is for 1:30 pm for today and is for 2 people.
+Yes that sounds wonderful.
+I was able to book the reservation successfully.
+I appreciate it very much. That's all I need right now.
+Be sure to have a great day!
+I want to get something to eat, something that's pricey, help me look for a place.
+What city would you like me to search in?
+Search in Pleasanton.
+What type of cuisine are you looking for, for example American, Indian, or anything else?
+I'm looking for Barbecue, that would hit the spot.
+There are 2 restaurants I've found. There's a nice restaurant called Baci Bistro And Bar in Pleasanton that might interest you.
+What's their phone number? And is there live music there?
+You can call them at 925-600-0600. And I'm sorry, but there's no live music there.
+Okay, that's fine. Make me a reservation for the restaurant.
+What time would you like the reservation for?
+I want it to be at 13:45.
+Okay, I'll make you a reservation for 2 at Baci Bistro And Bar in Pleasanton at 1:45 pm today, is that correct?
+Yeah, that's correct. Also, what's their address, and do they serve liquor there?
+They're located at 500 Main Street, and they don't serve alcohol, sorry. I'm sorry but that time is all booked. Would you like a reservation for 2 at Baci Bistro And Bar for 1:30 pm today instead?
+Yeah, that's fine.
+Okay, I made you the reservation.
+Thanks a lot, that's all the help I need.
+Okay, have a good rest of your day.
+I'm hungry, do you have any recommendations on where to eat?
+Where are you looking for to eat? What type of food do you want? Do you want American, Indian, or some other cuisine?
+I'm craving some Sushi in San Francisco if possible.
+There a good restaurant in San Francisco that sells sushi it is called 2g Japanese Brasserie.
+Do you know the price range of the restaurant?
+Their prices are moderate.
+That sounds great. I want to make a reservation.
+For when do you want to make it?
+Make a reservation for one person at afternoon 12.
+Please confirm: Making a reservation for 1 person today at 12 pm at 2g Japanese Brasserie in San Francisco.
+No, I'm sorry. It's for three people.
+Please confirm: Making a reservation for 3 people today at 12 pm at 2g Japanese Brasserie in San Francisco.
+In second though I want it to be at 12:30 in the afternoon.
+Making a reservation for 3 people today at 12:30 pm at 2g Japanese Brasserie in San Francisco.
+That is correct. What is the address of the restaurant?
+The reservation has been done. The address is 601 Van Ness Avenue.
+Do you know the phone number?
+Their number is 415-292-9997.
+Thanks a lot.
+Is there anything else you need?
+No, that would be all.
+Have a good day.
+Is there a place to eat?
+Which city?
+Antioch would be great.
+What kinds of foods besides American and Mexican or you interested in?
+I would love to eat some lobster.
+There's a place in Antioch call Okawa Japanese Restaurant.
+That's great and it'll work for me.
+Do you want to reserve a table?
+I would love to make an appointment for one myself at 4:30 pm.
+Just to be correct, you're booking a table at Okawa Japanese Restaurant today in Antioch and it will be for 1 your self at 4:30 pm.
+That will be great. Also, I just wanted to now pricey is it.
+Unfortunately there are no tables available. Can I help you with anything else?
+Instead of the previous time, can you make it at 18:00?
+Just to be correct, you're booking a table at Okawa Japanese Restaurant in Antioch at 6 pm. That will be today and that will be for 1.
+That works and fits my schedule.
+Your reservation is all set.
+Thanks. That will do it for me.
+Have a great day.
+What's a good place to grab a bite?
+What type of food. Italian? Indian?
+I'm in the mood for a burger.
+Where should I look?
+Find a place in Vallejo with live music.
+How about Mcdonald's in Vallejo?
+Yes. Please book a table.
+For what time?
+1 in the afternoon.
+Mcdonald's in Vallejo for 2 at 1 pm today. Correct?
+Yes, that is correct.
+Done. I booked you a table.
+Thanks. I'm done for now.
+You are welcome.
+I'm searching for a place to dine at.
+What metropolis should I look in, and what types of food do you want?
+I'd like for a moderate costing meal in Mountain View, preferably French.
+La Fontaine is a lovely diner situated in Mountain View.
+Can you give me their phone number?
+The restaurant's number is 650-968-2300.
+What is the restaurant's location?
+The restaurant's location is 186 Castro Street.
+Is there any other restaurant you recommend, preferably in SF?
+I discovered 10 restaurants. There is a wonderful diner called Amelie San Francisco located in San Francisco.
+Yeah, that's the one for me. I'd like to book a spot at that restaurant.
+When would you like the booking for?
+Put it for morning 10:30.
+Please verify the following information: Reserve a table for 2 people at Amelie San Francisco for 10:30 am today in San Francisco.
+Yeah, that's what I want. Can you give me their phone number?
+I apologize, but I could not book the restaurant. Could I assist you with something else?
+I'd like to try making a reservation once more. Put it for eleven in the morning.
+Please verify the following information: reserving a table for 2 people at Amelie San Francisco at 11 am today in San Francisco.
+Yeah, that's perfect for me. Do they possess live music?
+Your booking was successful. They do not possess live music.
+Thank you for your assistance.
+Could I assist you with something else?
+No. Thank you for your assistance.
+Have a pleasant afternoon.
+I'm looking for a place to eat.
+I can help you. In what city?
+I am in San Francisco.
+What kind of food would you like to eat?
+Something Russian would be great.
+I have 1 restaurant you may like. Red Tavern is a nice place located in San Francisco.
+Do they have live music?
+They do not, sorry.
+Do they serve alcohol? What's the address?
+The street address is 2229 Clement Street. They do not serve alcohol.
+That sounds good. I'd like that one.
+Would you like to reserve a table now?
+Yes, please. I want to make a reservation for next Thursday.
+What time would you like to eat?
+Please reserve me at 6:15 in the evening.
+Please confirm these details: I'm reserving a table for 2 people at Red Tavern in San Francisco, for next Thursday at 6:15 pm.
+Yes, that's perfect.
+Your reservation has been made.
+What is their contact number? Also, how expensive is their menu?
+Their phone number is 415-750-9090. Their price range is moderate.
+Thanks very much.
+Is there anything else I can do for you?
+No, that's it. Thanks.
+Have a good day!
+what can I have for breakfast
+There is American, Chinese, or anything else what do you want to eat?
+Anyone that is burger like in nature
+which city should I search from
+San francisco is okay
+There is a nice returant called 1760 in San francisco
+Yes that is okay with me, I need a reservation at 1760
+when do u want it booked?
+evening 4:45 is perfect
+booking table at 1760, city San francisco, time 4:45 pm, date today, reservation for 2 people. Confirm the details above
+That is okay with me
+the reservation is booked
+Thanks, thats all I want
+Have a great day
+I would like to find a place to eat in Santa Rosa.
+What kind of food would you like?
+Please find me a ramen restaurant.
+I have found 4 options. Hikuni is a great choice in Santa Rosa.
+Do they play live music? And what's their phone number?
+Their number is 707-539-9188. And unfortunately, they don't have live music.
+Could you suggest a not very costly option?
+Osake is a great choice in Santa Rosa.
+That would work great.
+Would you like a table?
+Yes, please make a reservation for me.
+What time would you like me to schedule it at?
+Please make it at 10:45 in the morning on the 4th of this month.
+Please confirm the following: You want a table for 2 people at Osake in Santa Rosa at 10:45 am next Monday.
+Yes, that would be great. What's their address? And do they have live music?
+Unfortunately, the reservation failed. Their address is 2446 Patio Court and they don't have live music. Osake is a great choice. Shall I attempt to make a reservation for 2 next Monday at 11 am?
+Yes, that would be great.
+Your reservation has been made.
+Thanks so much! That's all for now.
+Have a great day!
+I am looking for a restaurant.
+What kind of food do you want? What city are you in?
+I am looking for asian food in SFO.
+I found 10 restaurants in San Francisco including 8 Immortals Restaurant.
+What other restaurants are there? I want to buy a drink.
+There is a nice restaurant in San Francisco called Butterfly Restaurant.
+Do they have live music? Where are they located?
+They do not have live music. They are at 33 The Embarcadero.
+What other restaurants are there?
+There is a nice restaurant in San Francisco called Chaat Corner.
+I want to make a reservation there.
+What time do you want to go?
+I want the reservation at half past 7 in the evening.
+Please confirm you want a reservation for 2 people at Chaat Corner in San Francisco today at 7:30 pm.
+No, I actually want to go on March 14th.
+Please confirm you want the reservation in San Francisco on March 14th.
+Actually, we are going as a group of three.
+Please confirm you want a reservation for 3 people on March 14th.
+That is correct.
+The reservation is successful.
+Thank you!
+May I further assist you?
+No, that will be all.
+See you soon!
+I am looking for a place to grab a bite to eat.
+What do you think you're hungry for?
+I'm looking for Mediterranean in Redwood City.
+There is only 1 restaurant I could find in Redwood City, name Rocknwraps And Kabobs.
+Do they have alcoholic drinks?
+This restaurant doesn't serve liquor.
+Ok, I will go with that restaurant.
+Would you like me to reserve a table there for you?
+Yes, can you please make a reservation for 17:30?
+Ok, to confirm; you would like to eat at Rocknwraps And Kabobs in Redwood City at 5:30 pm today. I should make that reservation for 2 people?
+Yes, that is correct.
+I have made your reservation.
+Thank you for helping me.
+I hope your day is good.
+I am wondering if you find me a good dining to have my food.
+Which category are you looking for - Thai, Chinese, Mexican, Italian, American ..? Where you wish to find a place?
+I would love to have some kind of American food. Fairfield would be suitable to me.
+Give me a moment ... There is a top-rated American restaurant in Fairfield and the restaurant name is Chuck E. Cheese's. Would you prefer this one?
+Do they have bar? I would prefer one which serves alcohol too. Please can you find me some restaurant offering alcohol in addition to serving American food.
+Yup! Here, you go!!! Red Lobster, an American casual dining restaurant is nice one located in Fairfield. Do you like to have your food here?
+Might be.... If you don't mind, still do you have suggestions for any other restaurant?
+Fortunately I can find one more for you. Texas Roadhouse, an American restaurant specializing in steaks is a very nice restaurant located in Fairfield.
+Is it a costlier restaurant or a cheaper one? What's their prices? What's the street address of the restaurant?
+Nope, they are in mid-range. Their prices are moderate. They are located in 3333 North Texas Street.
+Awesome... I would like to have my food there. Please can I make a reservation for the table at the restaurant?
+Why not? Sure. I can help you on that. At what time you wish to reserve the table?
+Please reserve in the morning at 11:15 am.
+Please confirm me that you are booking a table at Texas Roadhouse located in Fairfield for 2 people today at 11:15 am. Is that right?
+Nope, please book it on 13th of this month.
+Sure, I can do that. So, your booking would be at Texas Roadhouse on March 13th, right?
+Yup! That's works. Do you have phone number to reach out?
+Yup! You can reach them at 707-422-7623 and your reservation is successful.
+Thank you so much.
+Do you need any other assistance?
+Nope, thanks a lot.
+Have a wonderful day.
+I am looking for somewhere to eat.
+Which should city should I search?
+I want a economical place that serves alcohol in Oakland.
+What kind of food are you looking for? Italian, American, what?
+Gastrobar food will be perfect.
+I found 1 Umami Burger Oakland restaurant in Oakland.
+Do you know if they have live music? If so, where?
+They don't have live music on 2100 Franklin Street.
+Ok, that works for me!
+Do you want to reserve a table?
+Sure! I want to make a reservation for the 11th of March.
+What time do you want to make the reservation?
+Make it for 6 o\"clock in the evening, for two people.
+A table at Umami Burger Oakland, in Oakland, at 6 pm, on March 11th, for 2 people.
+Great, works for me! What is their number?
+Reservation reserved, their number is 510-899-8626.
+Thanks so much, that's all I needed!
+Have a good day!
+I would like to find a restaurant in Oakland
+Do you have a specific type of cuisine in mind? Feel free to choose American, Mexican, or any other cuisine.
+Fish would be great
+There is a restaurant called Alamar Kitchen & Bar in Oakland that meets your preferences
+Can you tell me if the prices are inexpensive?
+The prices are moderate
+And is alcohol available there? May I also have their phone number?
+They do not provide alcohol. The phone number is 510-907-7555
+Excellent, that's perfect.
+Should I make a reservation for you at this restaurant?
+Yes please. I would like to reserve a table.
+When would you like the reservation to begin?
+I would like it for 6:15 pm
+So to confirm, you would like a 6:15 pm reservation for 2 today at Alamar Kitchen & Bar in Oakland.
+Yes, that sounds great. Can you tell me if there is live music at the venue?
+Your reservation was not successful. Would you like assistance with anything further?
+I would like to attempt a reservation for evening 5:30.
+To confirm, you would like a reservation for 2 for 5:30 pm today at Alamar Kitchen & Bar in Oakland
+Sure, that's perfect. May I also have the exact address for the venue?
+The reservation has been successfully confirmed. The restaurant is located at 100 Grand Avenue #111
+Great, thanks for your help.
+Is there anything additional that I can assist you with?
+No, all set. Thanks again
+Have a nice day.
+Can you find me a restaurant?
+Of course. What city? Any type of cuisine you're interested in?
+Look in Santa Clara. Any Southern restaurants?
+I found 4 matches. There's Bennigan's in Santa Clara.
+Oh I've been meaning to try that
+Would you like to book a reservation?
+Yes, book it
+What time?
+Do they have room for two at 18:45?
+Please confirm: a table for 2 at Bennigan's in Santa Clara at 6:45 pm today
+No. Let's try 11:30 am on the 8th instead
+Please confirm: 11:30 am next Friday?
+Yes that's right. Where are they? Any chance they have live music?
+Your reservation has been confirmed. Find them at 4150 Great America Parkway. Sadly, there's no live music.
+Thanks.
+Anything else I can do to hope.
+Nope not now
+Take care
+I am looking for a place to eat.
+Would you prefer a certain city?
+I want in Burlingame.
+Are you looking for Mexican, Indian or anything else?
+Some Barbecue will be prefect.
+Sure. I found 4 restaurants. In Burlingame 37 North is a nice.
+Do they serve liquor? How pricey are they?
+The price range is moderate but they don't serve alcohol.
+Yes that sounds good. Make a reservation for me.
+What time is the reservation for?
+Make it at 1:15 pm
+Please confirm. Booking a table in Burlingame 37 North restaurant today at 1:15 pm for 2 people.
+Do they have live music? What is the contact number?
+Sorry, I was unable to make reservation. The phone number is 650-373-2237 and they don't have live music. Shall i book a table in Burlingame 37 North restaurant today at 1:30 pm for 2 people?
+No. That doesn't work for me
+Can i help you with anything else?
+No. Thanks a lot
+Have a great day
+Will you find me a place to eat?
+Which city? What kind of food?
+Italian food in Pleasanton.
+I found De La Torre's Trattoria in Pleasanton.
+Anything else?
+Forno Vecchio in Pleasanton.
+What's the address and contact number?
+680 Main Street. 925-425-0099.
+Any other suggestions? Something affordable?
+Gay 90's Pizza Co. in Pleasanton.
+Great.
+Do you want to reserve a table?
+Yes, please, on 10th of this month.
+What time?
+Afternoon 1:15.
+Please confirm table at Gay 90's Pizza Co. for 2 in Pleasanton at 1:15 pm on March 10th.
+Sounds good. What's the address?
+I've made the reservation. It's located at 288 Main Street.
+Thanks.
+Anything else?
+No, that's it. Thanks.
+Have a wonderful day.
+I'm looking for a place to eat
+Which city are you located in, and what kind of food would you like to eat?
+I'd like some Taiwanese food in SFO
+There is a nice restaurant named Alice's in San Francisco
+Can you suggest some more restaurants, I no preference on price.
+I've found 9 restaurants in San Francisco, Bamboo restaurant is a nice one.
+Does that restaurant server liquor?
+yes, they serve alcohol.
+May I have their contact number and address?
+Sure, their phone number is 415-775-3679. They are located at 1441 Polk Street.
+Can you suggest other restaurants?
+Bei Fang Style is another nice restaurant in San Francisco
+That one would be great!
+Would you like to reserve a table?
+Yes I'd like to make a reservation.
+What time would you like to make a reservation for?
+I'd like a reservation for three people at Half past 1 in the afternoon.
+Please confirm if the following is correct: reservation at Bei Fang Style in San Francisco for 3, today at 1:30 pm.
+Yeah that sounds great.
+Your reservation has been successfully placed.
+Thanks.
+Is there anything else I can help you with?
+No, thats all thanks.
+Have a wonderful day.
+I'd like to find a place to eat in Oakland.
+What kind of food would you like to eat?
+I would love to eat some African food.
+I have found 2 different options. Cafe Eritrea D'afrique is a great choice in Oakland.
+Could you give another suggestion? I would love a place with live music.
+I have found 1 place called Miliki Restaurant in Oakland.
+Where are they located? And do they serve liquor?
+They do serve alcohol, and are located at 3725 MacArthur Boulevard.
+That works for me. I'd like to make a reservation on the 12th.
+At what time would you like me to schedule the reservation?
+Please schedule it at 11:15 in the morning.
+Please confirm the following: You want a table at Miliki Restaurant in Oakland at 11:15 am for 2 people on March 12th.
+That would be great.
+I'm sorry, I couldn't make the reservation. Is there anything else I could help you with?
+I want to try booking again, but this time on the 3rd of this month.
+Please confirm the following: You want a table for 2 people at Miliki Restaurant in Oakland at 11:15 am on the day after tomorrow.
+Never mind, make it for 12:30.
+Please confirm the following: You want a reservation at 12:30 pm for 2 people.
+Yup, that would be great. Are the prices above average?
+I was able to reserve you a table. Their prices are in the moderate range.
+Thanks so much. That'll be all for today.
+Have a great day!
+I need somewhere to have dinner, can you find me a reasonably priced place to eat?
+Sure, what kind of food do you want?
+I want something to-go.
+Okay sure, what city are we searching in?
+I'm in Walnut Creek at the moment, please search there.
+Okay, I found 3 restaurants in Walnut Creek. How about Panera Bread?
+Do they have live music? Where can I find them?
+They're at 1140 Locust Street and they do have live music.
+Okay, that sounds great.
+Would you like to book a table?
+Yes thanks, please do it.
+What time would you like to go?
+6 o\"clock in the evening thanks.
+Okay sure, please confirm that you want a table for 2 at Panera Bread in Walnut Creek from 6 pm today.
+Yes that's perfect, thanks.
+Okay, your booking is complete.
+Thanks a lot homie.
+No worries, is there anything else?
+No, nothing at all.
+Great, see you then.
+I want something not very costly priced
+what city do I need to look in?
+I need it in San Mateo
+are you looking for Indian, Italian or anything?
+A Diner kind of food will be good
+Central Park Bistro is a good place in San Mateo
+what is the address?
+The address is 181 East 4th Avenue
+Yes that is good and I want a reservation at a restaurant
+what time is the reservation for?
+I want it at 5:45 in the evening
+Book a table at Central Park Bistro in San Mateo for 5:45 pm for 2 people today.
+yes that is good
+Central Park Bistro works and that will be for 2 people today at 6 pm
+No that is all
+Have a great one
+I would like to go to a restaurant.
+What type of food and in which city?
+I want some Indian food, preferable curry. Is there any place in Newark.
+There are 4 places available. Biryani Pot in Newark has an excellent cuisine.
+That would be fine. I would like you a reservation.
+For what time?
+I prefer 7:30 in the evening.
+I would like to confirm the following: you would like to reserve a table for 2 persons for today at 7:30 pm at the Biryani Pot in Newark.
+That sounds like a good plan.
+I have made the reservation.
+Great. You have been helpful. I do not need anything else.
+Enjoy your day.
+I'm looking for somewhere to eat.
+Which city should I search in? What kind of food are you looking for? You can say Italian, Mexican, or anything else.
+Somewhere to eat in San Bruno. Some Latin American food is what I'm looking for.
+Celia's Mexican Restaurant is a nice restaurant located in San Bruno.
+Any other suggestions? Specifically places that serve alcohol.
+I found 1 restaurants. Chili's Grill & Bar is a nice restaurant located in San Bruno.
+That's good.
+Would you like to reserve a table here?
+Yes I would. Next Friday for six people.
+What time is the reservation for?
+I want it on the 9th at 5:30 in the evening.
+Please confirm the following details: Booking a table at Chili's Grill & Bar. The city is San Bruno. The reservation is at 5:30 pm. The date is March 9th. The reservation is for 6 people.
+Change the time to 6:30 in the evening.
+Please confirm the following details: The city is San Bruno. The reservation is at 6:30 pm.
+Yes that's right. Is the restaurant low priced with live music?
+Sorry, I was unable to make a reservation. Can I help you with anything else?
+I want to make a reservation for 2 people.
+Please confirm the following details: Booking a table at Chili's Grill & Bar. The city is San Bruno. The reservation is at 6:30 pm. The date is March 9th. The reservation is for 2 people.
+Yes that's good.
+Your reservation is successful.
+Thank you, that's all I need.
+Have a good day.
+I am looking for a not very costly place to get a bite to eat and an alcoholic drink.
+Would you prefer Mexican, Chinese, or something else?
+Thai food would be great.
+In what city would you like to dine?
+I want Oriental food in Berkeley.
+Mount Everest Restaurant in Berkeley is the number 1 hit.
+I would like a reservation for 1.
+What time should the reservation be?
+I want a reservation on the 13th at 12:30.
+I have one reservation at Mount Everest Restaurant in Berkeley on March 13th at 12:30 pm for 1 person. Is that correct?
+Yes that is correct.
+Your reservation was accepted.
+Will there be live music?
+Live music not an option at Mount Everest Restaurant.
+What's the number and address?
+The address is 2598 Telegraph Avenue and the phone number is 510-843-3951.
+Thanks! I appreciate at it!
+Is there anything else I can help you with?
+No thanks, I'm good.
+Have a nice day.
+Hey, can you help me find a place to eat?
+Sure, where abouts?
+I want to eat in SF.
+What type of food do you fancy? Chinese, Indian?
+I'm feeling some Szcheuan.
+Okay, I've found 10 restaurants that could be good. How does Alice's in San Francisco sound?
+Sounds good. What's their number and address?
+Their number is 415-282-8999. The address is 1599 Sanchez Street.
+That's great, thanks.
+Would you like me to make a reservation for you?
+Yes, please. On the 1st of this month.
+And for what time?
+For around 11:45.
+Sure thing, please confirm: reservation for 2 people at Alice's in San Francisco at 11:45 am today.
+Yes that's good. Are they expensive? Is there live music?
+I'm sorry, I was unable to make a reservation at that time. Shall I try for a reservation at Alice's for 2 people today at 12 pm? Their pricing is inexpensive and they do not have live music.
+Yes, that's good.
+The reservation has been made.
+Thanks a lot. That's everything.
+Have a great day.
+I need somewhere to get a bite to eat, can you hook me up?
+Sure, where are we looking? What kind of food do you like?
+I want some ramen, I'm really craving it. Can you find me an afforadable place in Morgan Hill?
+Hanami Sushi does ramen in Morgan Hill. Is that okay?
+Nah, I'd rather somewhere else. Do you have another one?
+Sushi Nara is another place that does ramen in Morgan Hill.
+Yeah, that'll be good for me.
+Great, do you want a table?
+Yes, please book a table for two.
+What time would you like to eat?
+I'd like the table for afternoon 12:30 thanks.
+Please confirm that you'd like to book a table for 2 at Sushi Nara in Morgan Hill from 12:30 pm today.
+No actually, I want it for three people on the 12th instead.
+Okay sure, please confirm that you'd like a table for 3 on March 12th.
+Yeah that's perfect. Do they serve alcohol? Do they have live music?
+They don't do either, unfortunately. Your table has been booked.
+Thanks a lot.
+Is there anything else?
+No thanks, that's all.
+Okay, see you.
+i want to eat at a place in mountain view preferably one that serves alcohol.
+what type of food do you want? indian, chinese ?
+something cafe like, i want some reasonably priced food.
+i found 2 restraunts, Bajis cafe is a restraunt located in mountain view
+yes that works, place reservation next wednesday
+at what time?
+1 pm
+Please confirm: A table at bajis cafe in mountain view at 1 pm on next wednesday for 2 people ?
+no make it 19:00 on march 9th
+Confirm: Reservation at 7 pm march 9th
+yes that works for me. is there live music? what is their number?
+Reservation succeful. Yes, live music included. Their phone number is 650-967-7477
+thank you, that will be it.
+no problem, have a great day.
+I'm looking for a restaurant to go to. I'd prefer a place that specializes in fish.
+What city should I search in?
+The location is Fremont, please.
+I found 4 restaurants in Fremont. Aniki's Sushi is a nice one.
+What is their address and contact number?
+Their phone number is 510-797-3474 and their address is 3810 Mowry Avenue.
+That sounds good. I need a reservation made there for one person.
+What time would you like the reservation for?
+12:30 would be good, please.
+Please confirm that you'd like a table for 1 today at 12:30 pm at Aniki's Sushi in Fremont.
+No. Actually I need it for three people on the 14th of March.
+Please confirm that you need the reservation for 3 people on March 14th.
+No. Can you change it to 1 pm on the 9th?
+Please confirm that you want the reservation for 1 pm on March 9th.
+Yes. Can you tell me if the restaurant is costly and do they offer live music?
+Their price range is moderate and they do not have live music. Your reservation has successfully been made.
+Thank you very much.
+Is there anything else I can help you with?
+No, I'm all set. Thank you.
+Have a good day.
+I would like to find somewhere to eat, preferably Asian food.
+In which city should I search?
+Please search in San Mateo, price is not an issue.
+I have found a restaurant in San Mateo called Izakaya Ginji.
+Do they have a liquor license and also do they have any live music?
+They do serve alcohol, they do not have live music
+That sounds perfect for me.
+Would you like me to make a reservation for you?
+I would like a reservation made for 1:30 pm. for 1 person please.
+Can you confirm the following details: Reservation at Izakaya Ginji in San Mateo, for 1:30 pm today for 1 person.
+Yes that is correct, do you have their phone number?
+I have made your reservation their phone number is 925-408-4891
+Thank you.
+Is their anything else I can help you with today?
+No, that is all, thank you.
+Have a nice day.
+I would like to find a place to eat.
+In which city should I search?
+I want to find one in South San Francisco.
+What kind of food are you looking for? You can search for Italian, Mexican or anything else.
+Sushi would be perfect.
+There are 3 restaurants. Amami San is a restaurant in South San Francisco.
+Can you find another restaurant? I am looking for some thing with afforadable prices in San Mateo.
+I have found 7 restaurants. Daiki Sushi is a restaurant located in San Mateo.
+Do you have any other sugggestions?
+Dash Japanese Tapas And Sushi is a restaurant located in San Mateo.
+Yes, that restaurant works for me. I would like to make a reservation for 2 people.
+What time would you like a reservation at?
+Place a reservation for 12:15.
+Please confirm: You would like to book a table for 2 at Dash Japanese Tapas And Sushi in San Mateo at 12:15 pm today.
+No it is for 1 person at 10:45.
+Please confirm: The reservation is for 1 person at 10:45 am.
+Yes, that sounds good.
+Sorry, I was unable to place a reservation at Dash Japanese Tapas And Sushi. Should I try one for 1 person today at 11 am?
+No. That was all I needed.
+Have a good day.
+I am in SFO for business and looking for a place to eat.
+Are you looking for Mexican or Italian food?
+Are there any Pakistani places?
+There are 4 restaurants that serve Pakistani cuisine in San Francisco. Aslam's Rasoi is a nice restaurant.
+Sounds good, what is their address and do they have live music?
+Their address is 1037 Valencia Street, but they do not have live music.
+ok, I guess that would work for me. I'd like to make a reservation, please.
+For what time?
+March 14th at 17:30, please.
+Ok, I am booking a table at Aslam's Rasoi in San Francisco on March 14th at 5:30 pm for 2 people. Is that correct?
+Please make the reservation for three people.
+Ok, I changed your reservation at Aslam's Rasoi in San Francisco to 3 people. Is that correct?
+Thank you, that's perfect. Do they serve liquor?
+I have successfully placed your reservation, no, they do not serve alcohol.
+What is their phone number?
+The phone number for Aslam's Rasoi in San Francisco is 415-695-0599.
+Thank you very much for the help. That is all I need.
+You are welcome, have a good day.
+I need somewhere to take a friend out for dinner. I would prefer if it was To-go
+What city will this be in?
+I'd like it to be in San Jose
+I found 4 restaurants in the San Jose area. I would recommend 4th St Pizza Co
+Is there anywhere else? I will be drinking so I'd prefer a place that serves alcohol
+I would recommend a nice restaurant in San Jose called Mimi's Cafe
+Does the restaurant have live music?
+There is no live music, sorry
+That's perfect! I need to book a reservation for 5 people on the 7th of March.
+What time would you like me to book the reservation for?
+Book it for four people at 6 pm
+Is this correct? I'm booking a table for 4 people at Mimi's Cafe in San Jose at 6 pm for next Thursday.
+No, I actually want it on the 12th of this month at twelve pm.
+Is this correct? The reservation is on March 12th at 12 pm.
+Yes that's great
+Your reservation has been booked
+Thanks so much!
+Is there anything else I can help you with?
+No that's everything, thank you.
+Have a great day.
+I want to go out to eat, looking for Parisian food.
+Where would you like me to look?
+In San Francisco.
+I found 10 possible restaurants. One is Amelie San Francisco, in San Francisco.
+Yes, that would work. Can you go ahead and make a reservation?
+What time would you like the reservation for?
+How about quarter past 11 in the morning.
+Please confirm the following: You want a table for 2 at 11:15 am today at Amelie San Francisco in San Francisco.
+Yes, that's it.
+Sorry, I was unable to complete your reservation. Is there anything else I can assist with?
+Try booking again, but at evening 6.
+Please confirm the following: You want a table for 2 at 6 pm today at Amelie San Francisco in San Francisco.
+Yes, that's it. Do they serve alcohol?
+Your reservation was successfully completed. Yes, they serve liquor.
+Thanks for the help.
+Is there anything else I can assist you with?
+Nope, that's all thanks.
+Enjoy your day!
+Hi. I'd like to find a place to eat.
+Fantastic! What kind of food would you like to eat: Indian, Italian, etc.? Also, what city would you like to eat in?
+I'd like the restaurant to be in Pleasanton. I'm in the mood for some Taiwanese food.
+Great! Andy & Yu's is a great restaurant in Pleasanton. Does that interest you at all?
+That's pretty expensive. I'm looking for a restaurant that's not very costly.
+No problem. China Lounge Restaurant & Bar in Pleasanton is a great place. Does that interest you at all?
+I went there once and it sucked. Is there anything else?
+There is! I recommend Hunan Chef Chinese Restaurant in Pleasanton. Does that interest you at all?
+Do they serve liquor?
+Unfortunately, they do not serve alcohol.
+What's their address?
+Their address is 4285 Valley Avenue.
+All right, I'm willing to try them.
+Would you like me to make a reservation for you?
+Yes, please.
+All right. What time would you like me to make the reservation for?
+12 in the afternoon.
+Perfect. Can you confirm the following details, please? You have a table for 2 people at Hunan Chef Chinese Restaurant in Pleasanton at 12 pm today.
+No, it's for one person on the 6th.
+Okay, no problem. Can you confirm the following details, please? Your reservation is for 1 person next Wednesday.
+Oh, darn. My friends want dinner with me. Can we make it three people at 5:15 pm?
+Yes, that's no problem. Can you confirm the following details, please? Your reservation is for 3 people at 5:15 pm.
+Yes, great! What's their phone number? Also, do they play live music?
+Unfortunately, I was unable to make the reservation. Can I help you with anything else?
+Wow, what a waste. No, that'll be all.
+Have a good day!
+Can you find me a place to eat?
+Do you have any type of food in mind?
+I'd love some Izakaya type food.
+Which city should I search in?
+I'd like something in a moderate price range. How about Gastrobar type food, in St. Helena.
+St. Helena has a nice restaurant called Cook Tavern & Pizzeria.
+Do you have an address for the restaurant?
+Their street address is 1304 Main Street.
+That would work for me.
+Would you like to make a reservation there?
+Yes, make the reservation.
+What time would you like the resevation?
+Half past 12 in the afternoon would be good.
+Please confirm that you would like to book a table for 2 people at the Cook Tavern & Pizzeria, in St. Helena, at 12:30 pm today.
+No, make it for 4 people, at 17:00.
+Please confirm that the reservation is for 4 people at 5 pm.
+No. I want the reservation on the 12th of March, for 6 people.
+Please confirm the reservation is for 6 people, on March 12th.
+Yes. That is what I want.
+I'm sorry, I was unable to make a reservation. Can I help you with anything else?
+No. Thank you.
+Have a nice day.
+I'll be out of town for a business conference and am looking for a place to eat while I'm there.
+What city are you in? Would you like American, Italian, or some other kind of food?
+I'd like to find a Burger in San Francisco.
+I found about 10 restaurants in San Francisco. What about 1760?
+Do they serve liquor? What's the address?
+Their address is 1760 Polk Street, and they do not serve alcohol.
+That works.
+Would you like to make a reservation?
+Yes, make it for Tuesday next week at evening 5.
+Please confirm: reservation for 2 people next Tuesday at 5 pm at 1760 restaurant in San Francisco.
+That works.
+Your reservation has been made.
+Thanks, that's all I needed.
+Have a good day.
+Can you find me somewhere to eat in Dublin?
+Do you have a preference for the type of food?
+Chinese food and not very costly, please.
+Here are 7 options, one of which is China Paradise Restaurant in Dublin.
+Where is it located?
+At 4580 Dublin Boulevard.
+Do bands play there?
+No, bands don't play there.
+That sounds good.
+Do you want a reservation?
+Yes, on the 7th for four people.
+At what time?
+Please reserve the table for 14:00.
+I am making a reservation for 4 at China Paradise Restaurant in Dublin next Thursday at 2 pm. Is that correct?
+Yes, that is perfect.
+I couldn't make a reservation. Do you need anything else?
+Can you make a restaurant reservation for 2 people?
+I am making a reservation for 2 people at China Paradise Restaurant in Dublin next Thursday at 2 pm. Is that correct?
+Yes. What is the phone number? Can I buy alcohol there?
+I couldn't make a reservation. Do you need anything else?
+Can you make a reservation at a restaurant for March 9th?
+I am making a reservation for 2 people at China Paradise Restaurant in Dublin on March 9th at 2 pm. Is that correct?
+Can you change it to afternoon 1:45?
+I am making a reservation for 2 people at China Paradise Restaurant in Dublin on March 9th at 1:45 pm. Is that correct?
+Yes that isperfect.
+The reservation has been made.
+Thank you, I'm done.
+Enjoy your day.
+I am planning to eat in some nice place outside, can you help me to search for one place that suits me?
+Can you say which type of food that you liked most like Italian, chinese or anything else that you preferred to eat? Also let me know in which city do I search for you?
+Ya, I prefer Asian food which I am always dreaming to eat and please search for me in Pleasant Hill.
+China Chef Restaurant is best for Asian foods which is located in Pleasant Hill, can you confirm whether this is convenient to you?
+Let me know the phone number and address of that restaurant, so that I can confirm.
+Phone number is 925-288-0999 and the address is 1200 Contra Costa Boulevard # K.
+Yes, that is fine, please make me a reservation on Tuesday next week.
+at what time?
+18:45 will be fine.
+Please confirm: Booking a table for 2 persons at China Chef Restaurant located in Pleasant Hill at 6:45 pm on next Tuesday.
+yes, confirmed. Please check whether they offer any live music and also get the price details.
+Sorry, I can't reserve at that time, can I book at 6:30 pm on next Tuesday for the same 2 people in China Chef Restaurant. The price is inexpensive, and they do not offer live music.
+No, not necessary. thanks. That's all.
+Have a great day.
