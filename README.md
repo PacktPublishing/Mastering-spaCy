@@ -51,8 +51,7 @@ With the following software and hardware list you can run all code files present
 | 9        | Jupyter            | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://static.packt-cdn.com/
-downloads/9781800563353_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://static.packt-cdn.com/downloads/9781800563353_ColorImages.pdf).
 
 
 ### Related products <Other books you may enjoy>
