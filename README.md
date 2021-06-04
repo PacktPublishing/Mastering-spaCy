@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/mastering-spacy/9781800563353"><img src="https://static.packt-cdn.com/products/9781800563353/cover/smaller" alt="Mastering spaCy" height="256px" align="right"></a>
 
-This is the code repository for [Mastering spaCy](Phttps://www.packtpub.com/product/mastering-spacy/9781800563353), published by Packt.
+This is the code repository for [Mastering spaCy](https://www.packtpub.com/product/mastering-spacy/9781800563353), published by Packt.
 
 **An end-to-end practical guide to implementing NLP applications using the Python ecosystem**
 
